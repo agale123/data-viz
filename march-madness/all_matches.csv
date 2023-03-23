@@ -1,0 +1,2413 @@
+year,team,seed,finish
+1984,Southern California,1,1
+1984,Tennessee,3,2
+1984,Cheyney,3,4
+1984,Louisiana Tech,1,4
+1984,Georgia,1,8
+1984,Long Beach St.,2,8
+1984,Old Dominion,1,8
+1984,Texas,2,8
+1984,Alabama,2,16
+1984,La.-Monroe,6,16
+1984,LSU,5,16
+1984,Montana,4,16
+1984,NC State,4,16
+1984,North Carolina,2,16
+1984,Ole Miss,4,16
+1984,San Diego St.,6,16
+1984,BYU,8,64
+1984,Central Mich.,7,64
+1984,Drake,7,64
+1984,Kansas St.,3,64
+1984,Louisville,5,64
+1984,Maryland,6,64
+1984,Middle Tenn.,6,64
+1984,Missouri,4,64
+1984,Ohio St.,5,64
+1984,Oregon,3,64
+1984,Oregon St.,5,64
+1984,Penn St.,8,64
+1984,St. John's (NY),7,64
+1984,Texas Tech,8,64
+1984,UNLV,7,64
+1984,Virginia,5,64
+1985,Old Dominion,1,1
+1985,Georgia,2,2
+1985,La.-Monroe,2,4
+1985,Western Ky.,4,4
+1985,Long Beach St.,1,8
+1985,Louisiana Tech,1,8
+1985,Ohio St.,2,8
+1985,Ole Miss,2,8
+1985,Auburn,3,16
+1985,NC State,4,16
+1985,Penn St.,3,16
+1985,San Diego St.,5,16
+1985,Southern California,4,16
+1985,Tennessee,3,16
+1985,Texas,1,16
+1985,UCLA,6,16
+1985,BYU,8,64
+1985,Holy Cross,7,64
+1985,Idaho,5,64
+1985,Illinois St.,8,64
+1985,Memphis,6,64
+1985,Middle Tenn.,5,64
+1985,Missouri,7,64
+1985,North Carolina,6,64
+1985,Saint Joseph's,5,64
+1985,Southern Miss.,7,64
+1985,Syracuse,8,64
+1985,Tennessee Tech,7,64
+1985,UNLV,4,64
+1985,Virginia,6,64
+1985,Washington,3,64
+1985,Western Mich.,8,64
+1986,Texas,1,1
+1986,Southern California,1,2
+1986,Tennessee,4,4
+1986,Western Ky.,4,4
+1986,Louisiana Tech,2,8
+1986,LSU,2,8
+1986,Ole Miss,2,8
+1986,Rutgers,2,8
+1986,Auburn,3,16
+1986,Georgia,1,16
+1986,James Madison,8,16
+1986,Long Beach St.,3,16
+1986,North Carolina,4,16
+1986,Ohio St.,3,16
+1986,Oklahoma,4,16
+1986,Penn St.,3,16
+1986,Drake,10,32
+1986,Illinois,8,32
+1986,Iowa,5,32
+1986,Maryland,6,32
+1986,Middle Tenn.,10,32
+1986,Missouri,9,32
+1986,Montana,8,32
+1986,NC State,6,32
+1986,Saint Joseph's,5,32
+1986,Southern Ill.,6,32
+1986,Texas Tech,6,32
+1986,UNLV,5,32
+1986,Vanderbilt,5,32
+1986,Villanova,7,32
+1986,Virginia,1,32
+1986,Washington,7,32
+1986,Arkansas,8,64
+1986,Kentucky,7,64
+1986,La Salle,10,64
+1986,North Texas,10,64
+1986,Ohio,9,64
+1986,Providence,9,64
+1986,South Carolina,7,64
+1986,Utah,9,64
+1987,Tennessee,2,1
+1987,Louisiana Tech,1,2
+1987,Long Beach St.,1,4
+1987,Texas,1,4
+1987,Auburn,1,8
+1987,Iowa,3,8
+1987,Ohio St.,2,8
+1987,Rutgers,2,8
+1987,Georgia,2,16
+1987,James Madison,4,16
+1987,NC State,3,16
+1987,Old Dominion,5,16
+1987,Ole Miss,4,16
+1987,Southern California,3,16
+1987,Southern Ill.,5,16
+1987,Virginia,3,16
+1987,Duke,7,32
+1987,Illinois,8,32
+1987,Kansas,7,32
+1987,LSU,4,32
+1987,Memphis,6,32
+1987,New Orleans,6,32
+1987,North Carolina,4,32
+1987,Northwestern,9,32
+1987,Oregon,7,32
+1987,Penn St.,5,32
+1987,Saint Joseph's,9,32
+1987,Tennessee Tech,7,32
+1987,Vanderbilt,5,32
+1987,Villanova,6,32
+1987,Washington,8,32
+1987,Western Ky.,6,32
+1987,Bowling Green,9,64
+1987,Eastern Wash.,10,64
+1987,Kansas St.,8,64
+1987,Manhattan,10,64
+1987,New Mexico St.,9,64
+1987,Northwestern St.,10,64
+1987,South Alabama,8,64
+1987,Southern Miss.,10,64
+1988,Louisiana Tech,2,1
+1988,Auburn,1,2
+1988,Long Beach St.,2,4
+1988,Tennessee,1,4
+1988,Iowa,1,8
+1988,Maryland,2,8
+1988,Texas,1,8
+1988,Virginia,2,8
+1988,Georgia,4,16
+1988,James Madison,4,16
+1988,Ohio St.,3,16
+1988,Ole Miss,3,16
+1988,Rutgers,3,16
+1988,Southern California,4,16
+1988,Stanford,5,16
+1988,Washington,3,16
+1988,Clemson,5,32
+1988,Colorado,7,32
+1988,Houston,6,32
+1988,Kansas,7,32
+1988,Montana,4,32
+1988,Nebraska,5,32
+1988,New Mexico St.,6,32
+1988,Old Dominion,6,32
+1988,Penn St.,9,32
+1988,Saint Joseph's,7,32
+1988,SFA,8,32
+1988,South Carolina,8,32
+1988,St. John's (NY),7,32
+1988,Syracuse,6,32
+1988,Wake Forest,9,32
+1988,Western Ky.,5,32
+1988,Alabama,9,64
+1988,Bowling Green,10,64
+1988,Eastern Ill.,10,64
+1988,Fairfield,10,64
+1988,La Salle,8,64
+1988,LSU,9,64
+1988,Middle Tenn.,10,64
+1988,Villanova,8,64
+1989,Tennessee,1,1
+1989,Auburn,1,2
+1989,Louisiana Tech,1,4
+1989,Maryland,1,4
+1989,Long Beach St.,2,8
+1989,Ole Miss,3,8
+1989,Stanford,2,8
+1989,Texas,2,8
+1989,Clemson,4,16
+1989,Iowa,3,16
+1989,LSU,4,16
+1989,NC State,2,16
+1989,Ohio St.,3,16
+1989,SFA,4,16
+1989,UNLV,6,16
+1989,Virginia,4,16
+1989,Bowling Green,9,32
+1989,Colorado,3,32
+1989,Georgia,5,32
+1989,Illinois St.,7,32
+1989,James Madison,6,32
+1989,La Salle,9,32
+1989,Montana,10,32
+1989,Oklahoma St.,9,32
+1989,Old Dominion,6,32
+1989,Purdue,5,32
+1989,Rutgers,7,32
+1989,Saint Joseph's,10,32
+1989,Temple,8,32
+1989,Tennessee Tech,11,32
+1989,Washington,5,32
+1989,West Virginia,12,32
+1989,Arkansas,12,64
+1989,Cal St. Fullerton,7,64
+1989,Chattanooga,12,64
+1989,Cincinnati,8,64
+1989,Hawaii,12,64
+1989,Holy Cross,9,64
+1989,Miami (FL),8,64
+1989,Northwestern St.,10,64
+1989,Providence,11,64
+1989,South Carolina,6,64
+1989,Southern Miss.,10,64
+1989,UConn,8,64
+1989,Utah,11,64
+1989,Vanderbilt,7,64
+1989,Villanova,11,64
+1989,Western Ky.,5,64
+1990,Stanford,1,1
+1990,Auburn,2,2
+1990,Louisiana Tech,1,4
+1990,Virginia,2,4
+1990,Arkansas,7,8
+1990,Tennessee,1,8
+1990,Texas,3,8
+1990,Washington,1,8
+1990,Clemson,5,16
+1990,NC State,2,16
+1990,Ole Miss,5,16
+1990,Providence,3,16
+1990,Purdue,4,16
+1990,SFA,3,16
+1990,South Carolina,5,16
+1990,Vanderbilt,6,16
+1990,DePaul,8,32
+1990,Georgia,2,32
+1990,Hawaii,9,32
+1990,Iowa,3,32
+1990,Long Beach St.,6,32
+1990,Maryland,6,32
+1990,Michigan,10,32
+1990,Northern Ill.,5,32
+1990,Northwestern,4,32
+1990,Ohio St.,6,32
+1990,Old Dominion,8,32
+1990,Penn St.,7,32
+1990,Southern Miss.,8,32
+1990,Tennessee Tech,7,32
+1990,UConn,4,32
+1990,UNLV,4,32
+1990,Appalachian St.,11,64
+1990,Bowling Green,12,64
+1990,California,11,64
+1990,Florida St.,10,64
+1990,LSU,9,64
+1990,Manhattan,12,64
+1990,Montana,8,64
+1990,Oklahoma St.,7,64
+1990,Richmond,10,64
+1990,Rutgers,11,64
+1990,Saint Joseph's,9,64
+1990,Southern Ill.,11,64
+1990,Texas Tech,12,64
+1990,UCLA,10,64
+1990,Utah,12,64
+1990,Western Ky.,9,64
+1991,Tennessee,1,1
+1991,Virginia,1,2
+1991,Stanford,2,4
+1991,UConn,3,4
+1991,Auburn,3,8
+1991,Clemson,4,8
+1991,Georgia,1,8
+1991,Lamar,10,8
+1991,Arkansas,3,16
+1991,James Madison,8,16
+1991,Long Beach St.,4,16
+1991,NC State,2,16
+1991,Oklahoma St.,5,16
+1991,Vanderbilt,10,16
+1991,Washington,3,16
+1991,Western Ky.,4,16
+1991,Cal St. Fullerton,7,32
+1991,Florida St.,5,32
+1991,George Washington,10,32
+1991,Holy Cross,11,32
+1991,Iowa,6,32
+1991,LSU,2,32
+1991,Michigan St.,4,32
+1991,Missouri St.,8,32
+1991,Northwestern,6,32
+1991,Penn St.,1,32
+1991,Providence,5,32
+1991,Purdue,2,32
+1991,SFA,8,32
+1991,Southern California,5,32
+1991,Toledo,11,32
+1991,UNLV,8,32
+1991,Appalachian St.,12,64
+1991,DePaul,12,64
+1991,Fairfield,12,64
+1991,Kentucky,9,64
+1991,Louisiana Tech,10,64
+1991,Maryland,6,64
+1991,Montana,11,64
+1991,Ole Miss,9,64
+1991,Richmond,7,64
+1991,Rutgers,6,64
+1991,South Carolina,7,64
+1991,Tennessee Tech,9,64
+1991,Texas,7,64
+1991,Texas Tech,9,64
+1991,Utah,12,64
+1991,Washington St.,11,64
+1992,Stanford,1,1
+1992,Western Ky.,4,2
+1992,Missouri St.,8,4
+1992,Virginia,1,4
+1992,Maryland,2,8
+1992,Ole Miss,2,8
+1992,Southern California,3,8
+1992,Vanderbilt,3,8
+1992,Miami (FL),2,16
+1992,Penn St.,3,16
+1992,Purdue,3,16
+1992,SFA,2,16
+1992,Tennessee,1,16
+1992,Texas Tech,4,16
+1992,UCLA,5,16
+1992,West Virginia,4,16
+1992,Alabama,5,32
+1992,Clemson,5,32
+1992,Creighton,7,32
+1992,DePaul,11,32
+1992,George Washington,8,32
+1992,Iowa,1,32
+1992,Montana,11,32
+1992,North Carolina,7,32
+1992,Northern Ill.,11,32
+1992,Rutgers,8,32
+1992,Santa Clara,12,32
+1992,Southern Ill.,10,32
+1992,Texas,4,32
+1992,Toledo,10,32
+1992,UC Santa Barbara,9,32
+1992,UConn,6,32
+1992,Arizona St.,6,64
+1992,California,5,64
+1992,Chattanooga,12,64
+1992,Colorado,7,64
+1992,Houston,8,64
+1992,Kansas,9,64
+1992,Long Beach St.,10,64
+1992,Louisiana Tech,6,64
+1992,Notre Dame,12,64
+1992,Old Dominion,10,64
+1992,Providence,7,64
+1992,Saint Peter's,11,64
+1992,Southern Miss.,9,64
+1992,Tennessee Tech,12,64
+1992,Vermont,9,64
+1992,Wisconsin,6,64
+1993,Texas Tech,2,1
+1993,Ohio St.,1,2
+1993,Iowa,2,4
+1993,Vanderbilt,1,4
+1993,Colorado,4,8
+1993,Louisiana Tech,6,8
+1993,Tennessee,1,8
+1993,Virginia,2,8
+1993,Auburn,3,16
+1993,Georgetown,6,16
+1993,Missouri St.,10,16
+1993,North Carolina,4,16
+1993,SFA,4,16
+1993,Southern California,3,16
+1993,Stanford,1,16
+1993,Western Ky.,4,16
+1993,Alabama,5,32
+1993,California,9,32
+1993,Clemson,5,32
+1993,Florida,7,32
+1993,Georgia,8,32
+1993,Louisville,11,32
+1993,Maryland,2,32
+1993,Miami (FL),5,32
+1993,Nebraska,6,32
+1993,Northwestern,8,32
+1993,Old Dominion,10,32
+1993,Penn St.,3,32
+1993,Rutgers,9,32
+1993,Texas,3,32
+1993,UC Santa Barbara,5,32
+1993,Washington,10,32
+1993,Bowling Green,10,64
+1993,BYU,12,64
+1993,DePaul,11,64
+1993,Ga. Southern,12,64
+1993,Georgia Tech,9,64
+1993,Kansas,8,64
+1993,Montana St.,7,64
+1993,Northern Ill.,11,64
+1993,Oklahoma St.,7,64
+1993,Saint Peter's,12,64
+1993,San Diego,11,64
+1993,San Diego St.,9,64
+1993,Tennessee Tech,7,64
+1993,UConn,6,64
+1993,Vermont,8,64
+1993,Xavier,12,64
+1994,North Carolina,3,1
+1994,Louisiana Tech,4,2
+1994,Alabama,6,4
+1994,Purdue,1,4
+1994,Penn St.,1,8
+1994,Southern California,2,8
+1994,Stanford,2,8
+1994,UConn,1,8
+1994,Colorado,3,16
+1994,Seton Hall,4,16
+1994,Southern Miss.,4,16
+1994,Tennessee,1,16
+1994,Texas A&M,13,16
+1994,Texas Tech,2,16
+1994,Vanderbilt,2,16
+1994,Virginia,3,16
+1994,Auburn,9,32
+1994,Clemson,9,32
+1994,Creighton,10,32
+1994,George Washington,7,32
+1994,Iowa,3,32
+1994,Kansas,9,32
+1994,Minnesota,10,32
+1994,Missouri St.,6,32
+1994,Montana,7,32
+1994,Old Dominion,6,32
+1994,Ole Miss,5,32
+1994,Oregon,6,32
+1994,San Diego St.,5,32
+1994,Texas,5,32
+1994,Washington,8,32
+1994,Western Ky.,12,32
+1994,Boise St.,9,64
+1994,Bowling Green,7,64
+1994,Brown,16,64
+1994,FIU,8,64
+1994,Florida,4,64
+1994,Fordham,16,64
+1994,Ga. Southern,14,64
+1994,Grambling,15,64
+1994,Green Bay,15,64
+1994,Hawaii,12,64
+1994,Indiana,12,64
+1994,Loyola (MD),14,64
+1994,Marquette,14,64
+1994,Missouri,15,64
+1994,Mt. St. Mary's,14,64
+1994,N.C. A&T,16,64
+1994,Northern Ill.,11,64
+1994,Notre Dame,7,64
+1994,Oklahoma St.,12,64
+1994,Oregon St.,11,64
+1994,Portland,15,64
+1994,Radford,16,64
+1994,Rutgers,5,64
+1994,Saint Joseph's,11,64
+1994,Santa Clara,11,64
+1994,SFA,8,64
+1994,SMU,13,64
+1994,Tennessee St.,13,64
+1994,UAB,10,64
+1994,UNLV,10,64
+1994,Vermont,13,64
+1994,Virginia Tech,8,64
+1995,UConn,1,1
+1995,Tennessee,1,2
+1995,Georgia,3,4
+1995,Stanford,2,4
+1995,Colorado,1,8
+1995,Purdue,4,8
+1995,Texas Tech,2,8
+1995,Virginia,3,8
+1995,Alabama,4,16
+1995,George Washington,4,16
+1995,Louisiana Tech,2,16
+1995,NC State,7,16
+1995,North Carolina,3,16
+1995,Vanderbilt,1,16
+1995,Washington,3,16
+1995,Western Ky.,4,16
+1995,Arkansas,6,32
+1995,Drake,5,32
+1995,Duke,5,32
+1995,FIU,9,32
+1995,Florida,6,32
+1995,Louisville,11,32
+1995,Memphis,8,32
+1995,Missouri St.,9,32
+1995,Montana,12,32
+1995,Oklahoma,7,32
+1995,Oregon St.,5,32
+1995,Penn St.,2,32
+1995,Seton Hall,6,32
+1995,SMU,10,32
+1995,Virginia Tech,8,32
+1995,Wisconsin,10,32
+1995,Dartmouth,14,64
+1995,DePaul,13,64
+1995,Florida A&M,16,64
+1995,Furman,15,64
+1995,Holy Cross,16,64
+1995,Indiana,14,64
+1995,Jackson St.,15,64
+1995,Kansas,7,64
+1995,Loyola (MD),10,64
+1995,Maine,16,64
+1995,Marquette,10,64
+1995,Mt. St. Mary's,13,64
+1995,Northern Ill.,16,64
+1995,Ohio,14,64
+1995,Oklahoma St.,12,64
+1995,Old Dominion,8,64
+1995,Ole Miss,12,64
+1995,Oregon,6,64
+1995,Portland,13,64
+1995,Radford,11,64
+1995,Saint Joseph's,9,64
+1995,San Diego St.,5,64
+1995,San Francisco,11,64
+1995,SFA,11,64
+1995,Southern California,9,64
+1995,Southern Miss.,7,64
+1995,Tennessee St.,12,64
+1995,Toledo,13,64
+1995,Tulane,15,64
+1995,UC Irvine,15,64
+1995,Utah,8,64
+1995,Western Ill.,14,64
+1996,Tennessee,1,1
+1996,Georgia,2,2
+1996,Stanford,1,4
+1996,UConn,1,4
+1996,Auburn,6,8
+1996,Louisiana Tech,1,8
+1996,Vanderbilt,3,8
+1996,Virginia,3,8
+1996,Alabama,4,16
+1996,Iowa,2,16
+1996,Kansas,4,16
+1996,Old Dominion,2,16
+1996,Penn St.,2,16
+1996,San Francisco,12,16
+1996,SFA,11,16
+1996,Texas Tech,4,16
+1996,Clemson,3,32
+1996,Colorado,3,32
+1996,Colorado St.,8,32
+1996,DePaul,7,32
+1996,Duke,4,32
+1996,George Washington,6,32
+1996,Kent St.,10,32
+1996,Michigan St.,9,32
+1996,NC State,5,32
+1996,Notre Dame,12,32
+1996,Ohio St.,9,32
+1996,Oklahoma St.,7,32
+1996,Southern Miss.,9,32
+1996,Texas,5,32
+1996,Toledo,10,32
+1996,Wisconsin,6,32
+1996,Appalachian St.,13,64
+1996,Austin Peay,14,64
+1996,Butler,15,64
+1996,Florida,5,64
+1996,Grambling,16,64
+1996,Harvard,14,64
+1996,Hawaii,11,64
+1996,Holy Cross,15,64
+1996,Howard,16,64
+1996,James Madison,13,64
+1996,Maine,11,64
+1996,Manhattan,14,64
+1996,Massachusetts,8,64
+1996,Memphis,8,64
+1996,Middle Tenn.,13,64
+1996,Missouri St.,12,64
+1996,Montana,12,64
+1996,Nebraska,9,64
+1996,Ole Miss,7,64
+1996,Oregon,11,64
+1996,Oregon St.,6,64
+1996,Portland,13,64
+1996,Purdue,5,64
+1996,Radford,16,64
+1996,Rhode Island,10,64
+1996,SMU,10,64
+1996,St. Francis (PA),15,64
+1996,Texas A&M,7,64
+1996,Tulane,14,64
+1996,UCF,16,64
+1996,Utah,8,64
+1996,Youngstown St.,15,64
+1997,Tennessee,3,1
+1997,Old Dominion,1,2
+1997,Notre Dame,6,4
+1997,Stanford,1,4
+1997,Florida,3,8
+1997,George Washington,5,8
+1997,Georgia,2,8
+1997,UConn,1,8
+1997,Alabama,2,16
+1997,Colorado,2,16
+1997,Illinois,4,16
+1997,Louisiana Tech,2,16
+1997,LSU,4,16
+1997,North Carolina,1,16
+1997,Vanderbilt,6,16
+1997,Virginia,4,16
+1997,Arizona,7,32
+1997,Auburn,7,32
+1997,Duke,5,32
+1997,Iowa,9,32
+1997,Kansas,3,32
+1997,Marquette,12,32
+1997,Michigan St.,8,32
+1997,Oregon,6,32
+1997,Purdue,8,32
+1997,Saint Joseph's,7,32
+1997,SFA,7,32
+1997,Southern California,6,32
+1997,Texas,3,32
+1997,Texas Tech,8,32
+1997,Tulane,4,32
+1997,Utah,5,32
+1997,Clemson,5,64
+1997,DePaul,12,64
+1997,Detroit Mercy,14,64
+1997,Drake,13,64
+1997,Eastern Ky.,15,64
+1997,FIU,14,64
+1997,Grambling,14,64
+1997,Harvard,16,64
+1997,Howard,16,64
+1997,Iowa St.,12,64
+1997,Kansas St.,10,64
+1997,Lehigh,16,64
+1997,Liberty,16,64
+1997,Louisville,10,64
+1997,Maine,13,64
+1997,Marshall,15,64
+1997,Maryland,9,64
+1997,Memphis,11,64
+1997,Montana,9,64
+1997,NC State,8,64
+1997,Northwestern,12,64
+1997,Portland,9,64
+1997,Saint Peter's,15,64
+1997,San Diego St.,11,64
+1997,San Francisco,11,64
+1997,St. Francis (PA),15,64
+1997,Texas St.,14,64
+1997,Toledo,10,64
+1997,Troy,13,64
+1997,UC Santa Barbara,13,64
+1997,Washington,11,64
+1997,Western Ky.,10,64
+1998,Tennessee,1,1
+1998,Louisiana Tech,3,2
+1998,Arkansas,9,4
+1998,NC State,4,4
+1998,Duke,2,8
+1998,North Carolina,2,8
+1998,Purdue,4,8
+1998,UConn,2,8
+1998,Alabama,2,16
+1998,Arizona,3,16
+1998,Florida,3,16
+1998,Illinois,3,16
+1998,Kansas,5,16
+1998,Notre Dame,9,16
+1998,Old Dominion,1,16
+1998,Rutgers,5,16
+1998,Clemson,6,32
+1998,Colorado St.,12,32
+1998,FIU,7,32
+1998,George Washington,10,32
+1998,Harvard,16,32
+1998,Iowa,4,32
+1998,Iowa St.,4,32
+1998,Louisville,10,32
+1998,Nebraska,9,32
+1998,Texas Tech,1,32
+1998,UC Santa Barbara,11,32
+1998,UCLA,7,32
+1998,Virginia,6,32
+1998,Virginia Tech,11,32
+1998,Western Ky.,8,32
+1998,Youngstown St.,12,32
+1998,Drake,5,64
+1998,Fairfield,15,64
+1998,Georgia,7,64
+1998,Grambling,16,64
+1998,Green Bay,14,64
+1998,Hawaii,8,64
+1998,Holy Cross,14,64
+1998,Howard,15,64
+1998,Kent St.,13,64
+1998,Liberty,16,64
+1998,Maine,13,64
+1998,Marquette,10,64
+1998,Massachusetts,13,64
+1998,Memphis,5,64
+1998,Miami (FL),11,64
+1998,Michigan,10,64
+1998,Middle Tenn.,15,64
+1998,Missouri St.,8,64
+1998,Montana,14,64
+1998,New Mexico,8,64
+1998,Oregon,12,64
+1998,Saint Francis (PA),16,64
+1998,Santa Clara,14,64
+1998,SFA,9,64
+1998,SMU,11,64
+1998,Stanford,1,64
+1998,Tulane,12,64
+1998,UNC Greensboro,15,64
+1998,Utah,7,64
+1998,Vanderbilt,6,64
+1998,Washington,13,64
+1998,Wisconsin,6,64
+1999,Purdue,1,1
+1999,Duke,3,2
+1999,Georgia,3,4
+1999,Louisiana Tech,1,4
+1999,Iowa St.,4,8
+1999,Rutgers,3,8
+1999,Tennessee,1,8
+1999,UCLA,3,8
+1999,Clemson,2,16
+1999,Colorado St.,2,16
+1999,LSU,4,16
+1999,North Carolina,4,16
+1999,Old Dominion,2,16
+1999,Texas Tech,2,16
+1999,UConn,1,16
+1999,Virginia Tech,4,16
+1999,Alabama,5,32
+1999,Arizona,6,32
+1999,Auburn,5,32
+1999,Boston College,8,32
+1999,Illinois,7,32
+1999,Kansas,9,32
+1999,Kentucky,6,32
+1999,Maine,10,32
+1999,Missouri St.,7,32
+1999,NC State,10,32
+1999,Notre Dame,5,32
+1999,Oregon,5,32
+1999,Penn St.,8,32
+1999,Saint Joseph's,11,32
+1999,SMU,11,32
+1999,Xavier,8,32
+1999,Appalachian St.,16,64
+1999,Cincinnati,12,64
+1999,CSUN,15,64
+1999,Dartmouth,14,64
+1999,Evansville,13,64
+1999,FIU,9,64
+1999,Florida,11,64
+1999,Florida A&M,15,64
+1999,Grambling,12,64
+1999,Green Bay,14,64
+1999,Holy Cross,14,64
+1999,Liberty,14,64
+1999,Louisville,10,64
+1999,Marquette,8,64
+1999,Mississippi St.,7,64
+1999,Nebraska,11,64
+1999,Northeastern,13,64
+1999,Ohio St.,9,64
+1999,Oral Roberts,16,64
+1999,Saint Francis (PA),16,64
+1999,Saint Peter's,13,64
+1999,Santa Clara,13,64
+1999,SFA,15,64
+1999,St. Mary's (CA),12,64
+1999,Stanford,7,64
+1999,Tennessee Tech,15,64
+1999,Texas,12,64
+1999,Toledo,6,64
+1999,Tulane,6,64
+1999,UC Santa Barbara,10,64
+1999,UCF,16,64
+1999,Virginia,9,64
+2000,UConn,1,1
+2000,Tennessee,1,2
+2000,Penn St.,2,4
+2000,Rutgers,2,4
+2000,Georgia,1,8
+2000,Louisiana Tech,1,8
+2000,LSU,3,8
+2000,Texas Tech,3,8
+2000,Duke,2,16
+2000,Iowa St.,3,16
+2000,North Carolina,5,16
+2000,Notre Dame,2,16
+2000,Oklahoma,5,16
+2000,Old Dominion,4,16
+2000,UAB,11,16
+2000,Virginia,4,16
+2000,Arizona,8,32
+2000,Auburn,7,32
+2000,Boston College,5,32
+2000,Clemson,9,32
+2000,George Washington,7,32
+2000,Illinois,6,32
+2000,Mississippi St.,3,32
+2000,Purdue,4,32
+2000,Rice,13,32
+2000,Saint Joseph's,10,32
+2000,SFA,11,32
+2000,SMU,12,32
+2000,Stanford,9,32
+2000,Tulane,6,32
+2000,Vanderbilt,9,32
+2000,Western Ky.,10,32
+2000,Alcorn St.,16,64
+2000,BYU,12,64
+2000,Campbell,15,64
+2000,Dartmouth,13,64
+2000,Drake,8,64
+2000,Furman,16,64
+2000,Green Bay,13,64
+2000,Hampton,16,64
+2000,Holy Cross,15,64
+2000,Kansas,8,64
+2000,Kent St.,9,64
+2000,Liberty,14,64
+2000,Maine,12,64
+2000,Marquette,7,64
+2000,Michigan,8,64
+2000,Missouri St.,10,64
+2000,Montana,16,64
+2000,NC State,5,64
+2000,Nebraska,12,64
+2000,Oregon,6,64
+2000,Pepperdine,13,64
+2000,Saint Francis (PA),14,64
+2000,Saint Peter's,14,64
+2000,San Diego,15,64
+2000,Tennessee Tech,14,64
+2000,Texas,7,64
+2000,UC Santa Barbara,4,64
+2000,UCLA,10,64
+2000,Utah,11,64
+2000,Vermont,11,64
+2000,Xavier,6,64
+2000,Youngstown St.,15,64
+2001,Notre Dame,1,1
+2001,Purdue,3,2
+2001,Missouri St.,5,4
+2001,UConn,1,4
+2001,Louisiana Tech,3,8
+2001,Vanderbilt,3,8
+2001,Washington,6,8
+2001,Xavier,4,8
+2001,Duke,1,16
+2001,Iowa St.,2,16
+2001,Missouri,10,16
+2001,NC State,4,16
+2001,Oklahoma,2,16
+2001,Tennessee,1,16
+2001,Texas Tech,2,16
+2001,Utah,5,16
+2001,Arkansas,9,32
+2001,Clemson,5,32
+2001,Colorado,6,32
+2001,Colorado St.,9,32
+2001,Florida,3,32
+2001,Florida St.,7,32
+2001,Georgia,2,32
+2001,Iowa,4,32
+2001,LSU,6,32
+2001,Michigan,8,32
+2001,Rutgers,4,32
+2001,St. Mary's (CA),9,32
+2001,Stanford,10,32
+2001,TCU,11,32
+2001,Villanova,5,32
+2001,Virginia Tech,7,32
+2001,Alcorn St.,16,64
+2001,Arizona St.,11,64
+2001,Austin Peay,16,64
+2001,Baylor,8,64
+2001,Chattanooga,12,64
+2001,Delaware,13,64
+2001,Denver,10,64
+2001,Drake,12,64
+2001,Fairfield,12,64
+2001,George Washington,7,64
+2001,Georgia St.,14,64
+2001,Holy Cross,14,64
+2001,Howard,15,64
+2001,Idaho St.,14,64
+2001,Liberty,15,64
+2001,Long Island,16,64
+2001,Louisville,13,64
+2001,Maryland,8,64
+2001,Milwaukee,16,64
+2001,Old Dominion,11,64
+2001,Oral Roberts,15,64
+2001,Oregon,13,64
+2001,Penn,15,64
+2001,Penn St.,6,64
+2001,SFA,13,64
+2001,Siena,11,64
+2001,Texas,8,64
+2001,Toledo,12,64
+2001,Tulane,10,64
+2001,UC Santa Barbara,14,64
+2001,Virginia,9,64
+2001,Wisconsin,7,64
+2002,UConn,1,1
+2002,Oklahoma,1,2
+2002,Duke,1,4
+2002,Tennessee,2,4
+2002,Colorado,3,8
+2002,Old Dominion,7,8
+2002,South Carolina,3,8
+2002,Vanderbilt,1,8
+2002,BYU,11,16
+2002,Drake,7,16
+2002,Kansas St.,3,16
+2002,North Carolina,4,16
+2002,Penn St.,4,16
+2002,Stanford,2,16
+2002,Texas,4,16
+2002,Texas Tech,4,16
+2002,Arizona St.,9,32
+2002,Arkansas,6,32
+2002,Baylor,2,32
+2002,Cincinnati,6,32
+2002,FIU,5,32
+2002,Iowa,9,32
+2002,Iowa St.,3,32
+2002,LSU,6,32
+2002,Minnesota,5,32
+2002,Mississippi St.,12,32
+2002,Notre Dame,7,32
+2002,Purdue,2,32
+2002,TCU,8,32
+2002,Tulane,10,32
+2002,UC Santa Barbara,12,32
+2002,Villanova,9,32
+2002,Austin Peay,15,64
+2002,Boston College,5,64
+2002,Bucknell,15,64
+2002,Chattanooga,13,64
+2002,Clemson,11,64
+2002,Colorado St.,7,64
+2002,Creighton,12,64
+2002,Florida,6,64
+2002,Georgia,10,64
+2002,Georgia St.,15,64
+2002,Green Bay,13,64
+2002,Hartford,16,64
+2002,Harvard,13,64
+2002,Indiana,9,64
+2002,Kent St.,14,64
+2002,Liberty,14,64
+2002,Louisiana Tech,5,64
+2002,New Mexico,10,64
+2002,Norfolk St.,16,64
+2002,Oakland,16,64
+2002,Pepperdine,8,64
+2002,Saint Francis (PA),16,64
+2002,Saint Peter's,12,64
+2002,Santa Clara,11,64
+2002,SFA,13,64
+2002,Southern,14,64
+2002,Syracuse,10,64
+2002,Temple,14,64
+2002,UNLV,12,64
+2002,Virginia,8,64
+2002,Weber St.,15,64
+2002,Wisconsin,8,64
+2003,UConn,1,1
+2003,Tennessee,1,2
+2003,Duke,1,4
+2003,Texas,2,4
+2003,LSU,1,8
+2003,Purdue,2,8
+2003,Texas Tech,2,8
+2003,Villanova,2,8
+2003,Boston College,5,16
+2003,Colorado,6,16
+2003,Georgia,5,16
+2003,Louisiana Tech,5,16
+2003,Minnesota,6,16
+2003,New Mexico,6,16
+2003,Notre Dame,11,16
+2003,Penn St.,4,16
+2003,Arkansas,7,32
+2003,George Washington,7,32
+2003,Green Bay,8,32
+2003,Kansas St.,3,32
+2003,Mississippi St.,3,32
+2003,North Carolina,3,32
+2003,Ohio St.,4,32
+2003,Rutgers,4,32
+2003,South Carolina,5,32
+2003,Stanford,3,32
+2003,TCU,9,32
+2003,UC Santa Barbara,7,32
+2003,Utah,8,32
+2003,Vanderbilt,4,32
+2003,Virginia,8,32
+2003,Virginia Tech,7,32
+2003,Alabama St.,16,64
+2003,Arizona,6,64
+2003,Austin Peay,14,64
+2003,Boston University,16,64
+2003,BYU,11,64
+2003,Charlotte,12,64
+2003,Chattanooga,12,64
+2003,Cincinnati,10,64
+2003,DePaul,9,64
+2003,Georgia St.,16,64
+2003,Georgia Tech,10,64
+2003,Hampton,15,64
+2003,Harvard,14,64
+2003,Holy Cross,13,64
+2003,Illinois,9,64
+2003,Liberty,13,64
+2003,Manhattan,14,64
+2003,Miami (FL),11,64
+2003,Michigan St.,8,64
+2003,Missouri St.,15,64
+2003,Oklahoma,10,64
+2003,Old Dominion,12,64
+2003,Pepperdine,12,64
+2003,Saint Francis (PA),15,64
+2003,Texas St.,16,64
+2003,Tulane,11,64
+2003,Valparaiso,15,64
+2003,Washington,9,64
+2003,Weber St.,13,64
+2003,Western Ky.,13,64
+2003,Western Mich.,14,64
+2003,Xavier,10,64
+2004,UConn,2,1
+2004,Tennessee,1,2
+2004,LSU,4,4
+2004,Minnesota,7,4
+2004,Duke,1,8
+2004,Georgia,3,8
+2004,Penn St.,1,8
+2004,Stanford,6,8
+2004,Baylor,4,16
+2004,Boston College,3,16
+2004,Louisiana Tech,5,16
+2004,Notre Dame,5,16
+2004,Purdue,2,16
+2004,Texas,1,16
+2004,UC Santa Barbara,11,16
+2004,Vanderbilt,2,16
+2004,Auburn,7,32
+2004,Chattanooga,10,32
+2004,DePaul,9,32
+2004,Florida,5,32
+2004,Houston,3,32
+2004,Kansas St.,2,32
+2004,Marquette,9,32
+2004,Maryland,12,32
+2004,Michigan St.,8,32
+2004,Middle Tenn.,13,32
+2004,Ohio St.,6,32
+2004,Oklahoma,3,32
+2004,TCU,6,32
+2004,Texas Tech,4,32
+2004,Villanova,7,32
+2004,Virginia Tech,8,32
+2004,Arizona,9,64
+2004,Austin Peay,13,64
+2004,Colgate,16,64
+2004,Colorado,6,64
+2004,Eastern Mich.,14,64
+2004,George Washington,8,64
+2004,Green Bay,14,64
+2004,Hampton,16,64
+2004,Iowa,9,64
+2004,Liberty,14,64
+2004,Lipscomb,15,64
+2004,Loyola Marymount,13,64
+2004,Maine,13,64
+2004,Marist,14,64
+2004,Miami (FL),5,64
+2004,Missouri,11,64
+2004,Missouri St.,12,64
+2004,Montana,12,64
+2004,NC State,10,64
+2004,New Mexico,12,64
+2004,North Carolina,4,64
+2004,Northwestern St.,16,64
+2004,Old Dominion,8,64
+2004,Ole Miss,10,64
+2004,Penn,15,64
+2004,Rutgers,7,64
+2004,Saint Francis (PA),15,64
+2004,Southern,16,64
+2004,Temple,11,64
+2004,UCLA,10,64
+2004,Valparaiso,15,64
+2004,West Virginia,11,64
+2005,Baylor,2,1
+2005,Michigan St.,1,2
+2005,LSU,1,4
+2005,Tennessee,1,4
+2005,Duke,2,8
+2005,North Carolina,1,8
+2005,Rutgers,3,8
+2005,Stanford,2,8
+2005,Arizona St.,5,16
+2005,Georgia,6,16
+2005,Liberty,13,16
+2005,Minnesota,3,16
+2005,Ohio St.,2,16
+2005,Texas Tech,4,16
+2005,UConn,3,16
+2005,Vanderbilt,5,16
+2005,Arizona,9,32
+2005,Boston College,7,32
+2005,DePaul,5,32
+2005,Florida St.,6,32
+2005,George Washington,9,32
+2005,Kansas St.,4,32
+2005,Maryland,7,32
+2005,Middle Tenn.,12,32
+2005,Notre Dame,4,32
+2005,Oregon,10,32
+2005,Purdue,9,32
+2005,Southern California,8,32
+2005,Temple,6,32
+2005,Texas,3,32
+2005,Utah,10,32
+2005,Virginia,6,32
+2005,Alcorn St.,16,64
+2005,Bowling Green,13,64
+2005,Canisius,15,64
+2005,Coppin St.,16,64
+2005,Dartmouth,14,64
+2005,Eastern Ky.,12,64
+2005,Green Bay,10,64
+2005,Hartford,14,64
+2005,Holy Cross,15,64
+2005,Houston,10,64
+2005,Illinois St.,15,64
+2005,Iowa St.,7,64
+2005,Louisiana Tech,11,64
+2005,Louisville,9,64
+2005,Montana,12,64
+2005,NC State,5,64
+2005,New Mexico,8,64
+2005,Oklahoma,8,64
+2005,Old Dominion,11,64
+2005,Ole Miss,8,64
+2005,Oral Roberts,14,64
+2005,Penn St.,4,64
+2005,Rice,11,64
+2005,Richmond,11,64
+2005,Saint Francis (PA),14,64
+2005,Santa Clara,15,64
+2005,Stetson,16,64
+2005,TCU,7,64
+2005,UC Santa Barbara,13,64
+2005,UT Arlington,13,64
+2005,Virginia Tech,12,64
+2005,Western Carolina,16,64
+2006,Maryland,2,1
+2006,Duke,1,2
+2006,LSU,1,4
+2006,North Carolina,1,4
+2006,Stanford,3,8
+2006,Tennessee,2,8
+2006,UConn,2,8
+2006,Utah,5,8
+2006,Baylor,3,16
+2006,Boston College,8,16
+2006,DePaul,4,16
+2006,Georgia,3,16
+2006,Michigan St.,4,16
+2006,Oklahoma,2,16
+2006,Purdue,4,16
+2006,Rutgers,3,16
+2006,Arizona St.,4,32
+2006,BYU,7,32
+2006,Florida St.,6,32
+2006,George Washington,7,32
+2006,Hartford,11,32
+2006,Kentucky,5,32
+2006,New Mexico,11,32
+2006,Ohio St.,1,32
+2006,Southern California,8,32
+2006,St. John's (NY),7,32
+2006,TCU,11,32
+2006,Tulsa,12,32
+2006,UCLA,5,32
+2006,Vanderbilt,8,32
+2006,Virginia Tech,7,32
+2006,Washington,9,32
+2006,Army,15,64
+2006,Bowling Green,12,64
+2006,California,10,64
+2006,Chattanooga,12,64
+2006,Coppin St.,15,64
+2006,Dartmouth,14,64
+2006,Fla. Atlantic,16,64
+2006,Florida,6,64
+2006,Iowa,10,64
+2006,Liberty,13,64
+2006,Louisiana Tech,11,64
+2006,Louisville,9,64
+2006,Marist,14,64
+2006,Middle Tenn.,12,64
+2006,Milwaukee,13,64
+2006,Minnesota,8,64
+2006,Missouri,10,64
+2006,Missouri St.,13,64
+2006,NC State,5,64
+2006,Northern Arizona,14,64
+2006,Notre Dame,9,64
+2006,Oakland,16,64
+2006,Old Dominion,10,64
+2006,Pepperdine,15,64
+2006,Sacred Heart,15,64
+2006,SFA,13,64
+2006,South Florida,9,64
+2006,Southeast Mo. St.,14,64
+2006,Southern,16,64
+2006,Temple,6,64
+2006,Texas A&M,6,64
+2006,UC Riverside,16,64
+2007,Tennessee,1,1
+2007,Rutgers,4,2
+2007,LSU,3,4
+2007,North Carolina,1,4
+2007,Arizona St.,3,8
+2007,Ole Miss,7,8
+2007,Purdue,2,8
+2007,UConn,1,8
+2007,Bowling Green,7,16
+2007,Duke,1,16
+2007,Florida St.,10,16
+2007,George Washington,5,16
+2007,Georgia,3,16
+2007,Marist,13,16
+2007,NC State,4,16
+2007,Oklahoma,3,16
+2007,Baylor,5,32
+2007,Georgia Tech,7,32
+2007,Green Bay,9,32
+2007,Iowa St.,6,32
+2007,Louisville,6,32
+2007,Marquette,6,32
+2007,Maryland,2,32
+2007,Michigan St.,5,32
+2007,Middle Tenn.,5,32
+2007,Notre Dame,9,32
+2007,Pittsburgh,8,32
+2007,Stanford,2,32
+2007,Temple,8,32
+2007,Texas A&M,4,32
+2007,Vanderbilt,2,32
+2007,West Virginia,11,32
+2007,Belmont,14,64
+2007,Boise St.,12,64
+2007,BYU,11,64
+2007,California,8,64
+2007,Chattanooga,12,64
+2007,Delaware,12,64
+2007,Delaware St.,15,64
+2007,DePaul,10,64
+2007,Drake,16,64
+2007,East Carolina,13,64
+2007,Gonzaga,12,64
+2007,Harvard,15,64
+2007,Holy Cross,16,64
+2007,Idaho St.,15,64
+2007,James Madison,9,64
+2007,Louisiana,11,64
+2007,Nebraska,9,64
+2007,New Mexico,8,64
+2007,Ohio St.,4,64
+2007,Oklahoma St.,10,64
+2007,Old Dominion,7,64
+2007,Oral Roberts,15,64
+2007,Prairie View,16,64
+2007,Robert Morris,13,64
+2007,Southeast Mo. St.,14,64
+2007,TCU,10,64
+2007,UC Riverside,14,64
+2007,UMBC,16,64
+2007,Asheville,14,64
+2007,UT Arlington,13,64
+2007,Washington,11,64
+2007,Xavier,6,64
+2008,Tennessee,1,1
+2008,Stanford,2,2
+2008,LSU,2,4
+2008,UConn,1,4
+2008,Maryland,1,8
+2008,North Carolina,1,8
+2008,Rutgers,2,8
+2008,Texas A&M,2,8
+2008,Duke,3,16
+2008,George Washington,6,16
+2008,Louisville,4,16
+2008,Notre Dame,5,16
+2008,Oklahoma St.,3,16
+2008,Old Dominion,5,16
+2008,Pittsburgh,6,16
+2008,Vanderbilt,4,16
+2008,Arizona St.,6,32
+2008,Baylor,3,32
+2008,California,3,32
+2008,Florida St.,11,32
+2008,Georgia,8,32
+2008,Hartford,10,32
+2008,Iowa St.,7,32
+2008,Kansas St.,5,32
+2008,Marist,7,32
+2008,Nebraska,8,32
+2008,Oklahoma,4,32
+2008,Purdue,9,32
+2008,Texas,8,32
+2008,UTEP,7,32
+2008,Virginia,4,32
+2008,West Virginia,5,32
+2008,Auburn,11,64
+2008,Bucknell,16,64
+2008,Chattanooga,12,64
+2008,Cleveland St.,15,64
+2008,Coppin St.,16,64
+2008,Cornell,16,64
+2008,DePaul,10,64
+2008,ETSU,14,64
+2008,Fresno St.,14,64
+2008,Georgia Tech,10,64
+2008,Illinois St.,13,64
+2008,Iowa,9,64
+2008,Jackson St.,15,64
+2008,Liberty,12,64
+2008,Miami (OH),13,64
+2008,Minnesota,9,64
+2008,Montana,13,64
+2008,Murray St.,14,64
+2008,New Mexico,12,64
+2008,Ohio St.,6,64
+2008,Oral Roberts,16,64
+2008,Robert Morris,15,64
+2008,San Diego,14,64
+2008,SMU,12,64
+2008,Syracuse,7,64
+2008,Temple,11,64
+2008,UC Santa Barbara,13,64
+2008,Utah,8,64
+2008,UTSA,15,64
+2008,Western Ky.,10,64
+2008,Wyoming,11,64
+2008,Xavier,9,64
+2009,UConn,1,1
+2009,Louisville,3,2
+2009,Oklahoma,1,4
+2009,Stanford,2,4
+2009,Arizona St.,6,8
+2009,Iowa St.,4,8
+2009,Maryland,1,8
+2009,Purdue,6,8
+2009,Baylor,2,16
+2009,California,4,16
+2009,Michigan St.,9,16
+2009,Ohio St.,3,16
+2009,Pittsburgh,4,16
+2009,Rutgers,7,16
+2009,Texas A&M,2,16
+2009,Vanderbilt,4,16
+2009,Auburn,2,32
+2009,Ball St.,12,32
+2009,Duke,1,32
+2009,Florida,8,32
+2009,Florida St.,3,32
+2009,Georgia Tech,9,32
+2009,Gonzaga,12,32
+2009,Kansas St.,5,32
+2009,LSU,6,32
+2009,Minnesota,10,32
+2009,Mississippi St.,11,32
+2009,North Carolina,3,32
+2009,San Diego St.,10,32
+2009,South Dakota St.,7,32
+2009,Utah,9,32
+2009,Virginia,5,32
+2009,Austin Peay,16,64
+2009,Charlotte,11,64
+2009,Dartmouth,16,64
+2009,DePaul,7,64
+2009,Drexel,12,64
+2009,ETSU,13,64
+2009,Evansville,15,64
+2009,Fresno St.,13,64
+2009,Georgia,11,64
+2009,Green Bay,11,64
+2009,Iowa,8,64
+2009,Lehigh,15,64
+2009,Liberty,14,64
+2009,Marist,12,64
+2009,Middle Tenn.,8,64
+2009,Montana,13,64
+2009,NC A&T,14,64
+2009,Notre Dame,7,64
+2009,Prairie View,16,64
+2009,Sacred Heart,14,64
+2009,TCU,10,64
+2009,Temple,9,64
+2009,Tennessee,5,64
+2009,Texas,6,64
+2009,UC Santa Barbara,15,64
+2009,UCF,14,64
+2009,UTSA,15,64
+2009,VCU,10,64
+2009,Vermont,16,64
+2009,Villanova,8,64
+2009,Western Carolina,13,64
+2009,Xavier,5,64
+2010,UConn,1,1
+2010,Stanford,1,2
+2010,Baylor,4,4
+2010,Oklahoma,3,4
+2010,Duke,2,8
+2010,Florida St.,3,8
+2010,Kentucky,4,8
+2010,Xavier,3,8
+2010,Georgia,5,16
+2010,Gonzaga,7,16
+2010,Iowa St.,4,16
+2010,Mississippi St.,7,16
+2010,Nebraska,1,16
+2010,Notre Dame,2,16
+2010,San Diego St.,11,16
+2010,Tennessee,1,16
+2010,Dayton,8,32
+2010,Georgetown,5,32
+2010,Green Bay,12,32
+2010,Iowa,8,32
+2010,Little Rock,11,32
+2010,LSU,7,32
+2010,Michigan St.,5,32
+2010,Ohio St.,2,32
+2010,Oklahoma St.,4,32
+2010,St. John's (NY),6,32
+2010,Temple,8,32
+2010,Texas A&M,2,32
+2010,UCLA,8,32
+2010,Vanderbilt,6,32
+2010,Vermont,10,32
+2010,West Virginia,3,32
+2010,Austin Peay,16,64
+2010,Bowling Green,12,64
+2010,Chattanooga,13,64
+2010,Cleveland St.,15,64
+2010,DePaul,11,64
+2010,ETSU,14,64
+2010,Fresno St.,13,64
+2010,Georgia Tech,6,64
+2010,Hampton,15,64
+2010,Hartford,10,64
+2010,James Madison,9,64
+2010,Lamar,14,64
+2010,Lehigh,13,64
+2010,Liberty,13,64
+2010,Louisiana Tech,14,64
+2010,Marist,12,64
+2010,Middle Tenn.,10,64
+2010,NC State,9,64
+2010,North Carolina,10,64
+2010,Portland St.,15,64
+2010,Princeton,11,64
+2010,Rutgers,9,64
+2010,Saint Francis (PA),15,64
+2010,South Dakota St.,14,64
+2010,Southern,16,64
+2010,TCU,9,64
+2010,Texas,6,64
+2010,Tulane,12,64
+2010,UC Riverside,16,64
+2010,UNI,16,64
+2010,Virginia,5,64
+2010,Wisconsin,7,64
+2011,Texas A&M,2,1
+2011,Notre Dame,2,2
+2011,Stanford,1,4
+2011,UConn,1,4
+2011,Baylor,1,8
+2011,Duke,2,8
+2011,Gonzaga,11,8
+2011,Tennessee,1,8
+2011,DePaul,3,16
+2011,Georgetown,5,16
+2011,Georgia,6,16
+2011,Green Bay,5,16
+2011,Louisville,7,16
+2011,North Carolina,5,16
+2011,Ohio St.,4,16
+2011,Oklahoma,6,16
+2011,Florida St.,3,32
+2011,Georgia Tech,5,32
+2011,Kentucky,4,32
+2011,Marist,10,32
+2011,Marquette,8,32
+2011,Maryland,4,32
+2011,Miami (FL),3,32
+2011,Michigan St.,4,32
+2011,Penn St.,6,32
+2011,Purdue,11,32
+2011,Rutgers,7,32
+2011,St. John's (NY),9,32
+2011,Temple,10,32
+2011,UCLA,3,32
+2011,West Virginia,9,32
+2011,Xavier,2,32
+2011,Arizona St.,7,64
+2011,Bowling Green,12,64
+2011,Dayton,11,64
+2011,Fresno St.,12,64
+2011,Gardner-Webb,14,64
+2011,Hampton,13,64
+2011,Hartford,16,64
+2011,Houston,8,64
+2011,Iowa,6,64
+2011,Iowa St.,7,64
+2011,James Madison,11,64
+2011,Kansas St.,8,64
+2011,Little Rock,12,64
+2011,Louisiana Tech,10,64
+2011,McNeese,15,64
+2011,Middle Tenn.,11,64
+2011,Montana,14,64
+2011,Navy,3,64
+2011,Prairie View,16,64
+2011,Princeton,12,64
+2011,Saint Francis (PA),13,64
+2011,Samford,14,64
+2011,South Dakota St.,15,64
+2011,Stetson,16,64
+2011,Texas,9,64
+2011,Texas Tech,8,64
+2011,UC Davis,16,64
+2011,UCF,13,64
+2011,UNI,13,64
+2011,UT Martin,15,64
+2011,Utah,15,64
+2011,Vanderbilt,10,64
+2012,Baylor,1,1
+2012,Notre Dame,1,2
+2012,Stanford,1,4
+2012,UConn,1,4
+2012,Duke,2,8
+2012,Kentucky,2,8
+2012,Maryland,2,8
+2012,Tennessee,2,8
+2012,Georgia Tech,4,16
+2012,Gonzaga,11,16
+2012,Kansas,11,16
+2012,Penn St.,4,16
+2012,South Carolina,5,16
+2012,St. Bonaventure,5,16
+2012,St. John's (NY),3,16
+2012,Texas A&M,3,16
+2012,Arkansas,6,32
+2012,California,8,32
+2012,Delaware,3,32
+2012,DePaul,7,32
+2012,Florida,9,32
+2012,Georgetown,5,32
+2012,Green Bay,7,32
+2012,Kansas St.,8,32
+2012,Louisville,7,32
+2012,LSU,5,32
+2012,Marist,13,32
+2012,Miami (FL),3,32
+2012,Oklahoma,6,32
+2012,Purdue,4,32
+2012,Vanderbilt,7,32
+2012,West Virginia,8,32
+2012,Albany,14,64
+2012,BYU,10,64
+2012,Creighton,14,64
+2012,Dayton,11,64
+2012,Eastern Mich.,12,64
+2012,FGCU,12,64
+2012,Fresno St.,12,64
+2012,Georgia,4,64
+2012,Hampton,16,64
+2012,Idaho St.,14,64
+2012,Iowa,9,64
+2012,Iowa St.,10,64
+2012,Liberty,16,64
+2012,Little Rock,14,64
+2012,McNeese,15,64
+2012,Michigan,11,64
+2012,Michigan St.,10,64
+2012,Middle Tenn.,10,64
+2012,Navy,15,64
+2012,Nebraska,6,64
+2012,Ohio St.,8,64
+2012,Prairie View,16,64
+2012,Princeton,9,64
+2012,Rutgers,6,64
+2012,Sacred Heart,13,64
+2012,Samford,15,64
+2012,San Diego St.,12,64
+2012,South Dakota St.,13,64
+2012,Texas,9,64
+2012,UC Santa Barbara,16,64
+2012,UT Martin,15,64
+2012,UTEP,13,64
+2013,UConn,1,1
+2013,Louisville,5,2
+2013,California,2,4
+2013,Notre Dame,1,4
+2013,Duke,2,8
+2013,Georgia,4,8
+2013,Kentucky,2,8
+2013,Tennessee,2,8
+2013,Baylor,1,16
+2013,Delaware,6,16
+2013,Kansas,12,16
+2013,LSU,6,16
+2013,Maryland,4,16
+2013,Nebraska,6,16
+2013,Oklahoma,6,16
+2013,Stanford,1,16
+2013,Creighton,10,32
+2013,Dayton,7,32
+2013,Florida St.,8,32
+2013,Iowa,9,32
+2013,Iowa St.,5,32
+2013,Michigan,8,32
+2013,Michigan St.,5,32
+2013,North Carolina,3,32
+2013,Oklahoma St.,7,32
+2013,Penn St.,3,32
+2013,Purdue,4,32
+2013,South Carolina,4,32
+2013,South Florida,10,32
+2013,Texas A&M,3,32
+2013,UCLA,3,32
+2013,Vanderbilt,8,32
+2013,Albany,14,64
+2013,Cal Poly,14,64
+2013,Central Mich.,11,64
+2013,Chattanooga,11,64
+2013,Colorado,5,64
+2013,DePaul,10,64
+2013,Fresno St.,15,64
+2013,Gonzaga,12,64
+2013,Green Bay,11,64
+2013,Hampton,15,64
+2013,Idaho,16,64
+2013,Liberty,13,64
+2013,Marist,12,64
+2013,Miami (FL),8,64
+2013,Middle Tenn.,12,64
+2013,Montana,13,64
+2013,Navy,15,64
+2013,Oral Roberts,15,64
+2013,Prairie View,16,64
+2013,Princeton,9,64
+2013,Quinnipiac,13,64
+2013,Saint Joseph's,9,64
+2013,South Dakota St.,13,64
+2013,St. John's (NY),10,64
+2013,Stetson,14,64
+2013,Syracuse,7,64
+2013,Texas Tech,7,64
+2013,Tulsa,16,64
+2013,UT Martin,16,64
+2013,Villanova,9,64
+2013,West Virginia,11,64
+2013,Wichita St.,14,64
+2014,UConn,1,1
+2014,Notre Dame,1,2
+2014,Maryland,4,4
+2014,Stanford,1,4
+2014,Baylor,2,8
+2014,Louisville,3,8
+2014,North Carolina,4,8
+2014,Texas A&M,3,8
+2014,BYU,12,16
+2014,DePaul,7,16
+2014,Kentucky,3,16
+2014,LSU,7,16
+2014,Oklahoma St.,5,16
+2014,Penn St.,3,16
+2014,South Carolina,1,16
+2014,Tennessee,1,16
+2014,Arizona St.,9,32
+2014,California,7,32
+2014,Duke,2,32
+2014,Florida,11,32
+2014,Florida St.,10,32
+2014,Iowa,6,32
+2014,James Madison,11,32
+2014,Michigan St.,5,32
+2014,Nebraska,4,32
+2014,Oregon St.,9,32
+2014,Purdue,4,32
+2014,Saint Joseph's,9,32
+2014,St. John's (NY),8,32
+2014,Syracuse,6,32
+2014,Texas,5,32
+2014,West Virginia,2,32
+2014,Akron,13,64
+2014,Albany,15,64
+2014,Army,13,64
+2014,Chattanooga,11,64
+2014,CSUN,16,64
+2014,Dayton,7,64
+2014,FGCU,12,64
+2014,Fordham,10,64
+2014,Fresno St.,13,64
+2014,Georgia,8,64
+2014,Georgia Tech,10,64
+2014,Gonzaga,6,64
+2014,Hampton,12,64
+2014,Idaho,14,64
+2014,Iowa St.,7,64
+2014,Marist,11,64
+2014,Middle Tenn.,12,64
+2014,NC State,5,64
+2014,North Dakota,14,64
+2014,Northwestern St.,16,64
+2014,Oklahoma,10,64
+2014,Penn,12,64
+2014,Prairie View,16,64
+2014,Robert Morris,16,64
+2014,South Dakota,15,64
+2014,Southern California,9,64
+2014,UT Martin,16,64
+2014,Vanderbilt,8,64
+2014,Western Ky.,15,64
+2014,Wichita St.,14,64
+2014,Winthrop,15,64
+2014,Wright St.,14,64
+2015,UConn,1,1
+2015,Notre Dame,1,2
+2015,Maryland,1,4
+2015,South Carolina,1,4
+2015,Baylor,2,8
+2015,Dayton,7,8
+2015,Florida St.,2,8
+2015,Tennessee,2,8
+2015,Arizona St.,3,16
+2015,Duke,4,16
+2015,Gonzaga,11,16
+2015,Iowa,3,16
+2015,Louisville,3,16
+2015,North Carolina,4,16
+2015,Stanford,4,16
+2015,Texas,5,16
+2015,Arkansas,10,32
+2015,California,4,32
+2015,DePaul,9,32
+2015,FGCU,7,32
+2015,Kentucky,2,32
+2015,Little Rock,11,32
+2015,Miami (FL),11,32
+2015,Mississippi St.,5,32
+2015,Ohio St.,5,32
+2015,Oklahoma,5,32
+2015,Oregon St.,3,32
+2015,Pittsburgh,10,32
+2015,Princeton,8,32
+2015,Rutgers,8,32
+2015,South Florida,6,32
+2015,Syracuse,8,32
+2015,Alabama St.,15,64
+2015,Albany,13,64
+2015,American,14,64
+2015,Boise St.,15,64
+2015,BYU,14,64
+2015,Chattanooga,7,64
+2015,CSUN,13,64
+2015,George Washington,6,64
+2015,Green Bay,9,64
+2015,Iowa St.,10,64
+2015,James Madison,12,64
+2015,Liberty,13,64
+2015,LSU,11,64
+2015,Minnesota,8,64
+2015,Montana,16,64
+2015,Nebraska,9,64
+2015,New Mexico St.,16,64
+2015,Northwestern,7,64
+2015,Northwestern St.,15,64
+2015,Ohio,14,64
+2015,Oklahoma St.,10,64
+2015,Quinnipiac,12,64
+2015,Savannah St.,16,64
+2015,Seton Hall,9,64
+2015,South Dakota St.,14,64
+2015,St. Francis Brooklyn,16,64
+2015,Tennessee St.,15,64
+2015,Texas A&M,6,64
+2015,Tulane,12,64
+2015,Washington,6,64
+2015,Western Ky.,12,64
+2015,Wichita St.,13,64
+2016,UConn,1,1
+2016,University of Connecticut,1,1
+2016,Syracuse,4,2
+2016,Syracuse University,4,2
+2016,Oregon St.,2,4
+2016,Washington,7,4
+2016,Oregon State University,2,4
+2016,University of Washington,7,4
+2016,Baylor,1,8
+2016,Stanford,4,8
+2016,Tennessee,7,8
+2016,Texas,2,8
+2016,University of Texas at Austin,2,8
+2016,Baylor University,1,8
+2016,"University of Tennessee, Knoxville",7,8
+2016,Stanford University,4,8
+2016,DePaul,6,16
+2016,Florida St.,5,16
+2016,Kentucky,3,16
+2016,Mississippi St.,5,16
+2016,Notre Dame,1,16
+2016,Ohio St.,3,16
+2016,South Carolina,1,16
+2016,UCLA,3,16
+2016,Mississippi State University,5,16
+2016,"University of California, Los Angeles",3,16
+2016,Florida State University,5,16
+2016,DePaul University,6,16
+2016,"University of South Carolina, Columbia",1,16
+2016,The Ohio State University,3,16
+2016,University of Notre Dame,1,16
+2016,University of Kentucky,3,16
+2016,Albany,12,32
+2016,Arizona St.,2,32
+2016,Auburn,9,32
+2016,Duquesne,9,32
+2016,Indiana,9,32
+2016,Kansas St.,9,32
+2016,Louisville,3,32
+2016,Maryland,2,32
+2016,Michigan St.,4,32
+2016,Missouri,10,32
+2016,Oklahoma,6,32
+2016,South Dakota St.,12,32
+2016,South Florida,6,32
+2016,St. Bonaventure,10,32
+2016,Texas A&M,4,32
+2016,West Virginia,6,32
+2016,Duquesne University,9,32
+2016,Michigan State University,4,32
+2016,University of South Florida,6,32
+2016,"University of Missouri, Columbia",10,32
+2016,Auburn University,9,32
+2016,"Texas A&M University, College Station",4,32
+2016,University of Louisville,3,32
+2016,St. Bonaventure University,10,32
+2016,Kansas State University,9,32
+2016,University at Albany,12,32
+2016,West Virginia University,6,32
+2016,Arizona State University,2,32
+2016,"Indiana University, Bloomington",9,32
+2016,South Dakota State University,12,32
+2016,University of Oklahoma,6,32
+2016,"University of Maryland, College Park",2,32
+2016,Alabama St.,15,64
+2016,Army West Point,13,64
+2016,Belmont,13,64
+2016,Buffalo,14,64
+2016,BYU,7,64
+2016,Central Arkansas,14,64
+2016,Chattanooga,12,64
+2016,Colorado St.,11,64
+2016,Florida,5,64
+2016,George Washington,8,64
+2016,Georgia,8,64
+2016,Green Bay,10,64
+2016,Hawaii,14,64
+2016,Idaho,16,64
+2016,Iona,15,64
+2016,Jacksonville,16,64
+2016,James Madison,11,64
+2016,Miami (FL),5,64
+2016,Middle Tenn.,12,64
+2016,Missouri St.,13,64
+2016,NC A&T,16,64
+2016,New Mexico St.,15,64
+2016,Oklahoma St.,7,64
+2016,Penn,10,64
+2016,Princeton,11,64
+2016,Purdue,11,64
+2016,Robert Morris,16,64
+2016,San Francisco,13,64
+2016,Seton Hall,8,64
+2016,St. John's (NY),8,64
+2016,Troy,15,64
+2016,UNC Asheville,14,64
+2016,Robert Morris University,16,64
+2016,Seton Hall University,8,64
+2016,University of Tennessee at Chattanooga,12,64
+2016,Belmont University,13,64
+2016,Colorado State University,11,64
+2016,"University of Hawaii, Manoa",14,64
+2016,Brigham Young University,7,64
+2016,Alabama State University,15,64
+2016,University of Idaho,16,64
+2016,St. John's University (New York),8,64
+2016,Middle Tennessee State University,12,64
+2016,Missouri State University,13,64
+2016,James Madison University,11,64
+2016,University of Central Arkansas,14,64
+2016,Oklahoma State University,7,64
+2016,Troy University,15,64
+2016,Jacksonville University,16,64
+2016,George Washington University,8,64
+2016,University of Florida,5,64
+2016,U.S. Military Academy,13,64
+2016,Princeton University,11,64
+2016,"University at Buffalo, the State University of New York",14,64
+2016,University of Wisconsin-Green Bay,10,64
+2016,New Mexico State University,15,64
+2016,North Carolina A&T State University,16,64
+2016,University of Georgia,8,64
+2016,University of Miami (Florida),5,64
+2016,University of San Francisco,13,64
+2016,Purdue University,11,64
+2016,University of North Carolina Asheville,14,64
+2016,University of Pennsylvania,10,64
+2016,Iona University,15,64
+2017,South Carolina,1,1
+2017,"University of South Carolina, Columbia",1,1
+2017,Mississippi St.,2,2
+2017,Mississippi State University,2,2
+2017,Stanford,2,4
+2017,UConn,1,4
+2017,University of Connecticut,1,4
+2017,Stanford University,2,4
+2017,Baylor,1,8
+2017,Florida St.,3,8
+2017,Notre Dame,1,8
+2017,Oregon,10,8
+2017,University of Oregon,10,8
+2017,Baylor University,1,8
+2017,University of Notre Dame,1,8
+2017,Florida State University,3,8
+2017,Louisville,4,16
+2017,Maryland,3,16
+2017,Ohio St.,5,16
+2017,Oregon St.,2,16
+2017,Quinnipiac,12,16
+2017,Texas,3,16
+2017,UCLA,4,16
+2017,Washington,3,16
+2017,"University of California, Los Angeles",4,16
+2017,"University of Maryland, College Park",3,16
+2017,University of Louisville,4,16
+2017,University of Washington,3,16
+2017,The Ohio State University,5,16
+2017,University of Texas at Austin,3,16
+2017,Quinnipiac University,12,16
+2017,Oregon State University,2,16
+2017,Arizona St.,8,32
+2017,California,9,32
+2017,Creighton,7,32
+2017,DePaul,7,32
+2017,Duke,2,32
+2017,Kansas St.,7,32
+2017,Kentucky,4,32
+2017,Miami (FL),4,32
+2017,Missouri,6,32
+2017,NC State,6,32
+2017,Oklahoma,6,32
+2017,Purdue,9,32
+2017,Syracuse,8,32
+2017,Tennessee,5,32
+2017,Texas A&M,5,32
+2017,West Virginia,6,32
+2017,Syracuse University,8,32
+2017,"Texas A&M University, College Station",5,32
+2017,West Virginia University,6,32
+2017,Duke University,2,32
+2017,"University of California, Berkeley",9,32
+2017,"University of Tennessee, Knoxville",5,32
+2017,University of Oklahoma,6,32
+2017,DePaul University,7,32
+2017,Purdue University,9,32
+2017,University of Kentucky,4,32
+2017,North Carolina State University,6,32
+2017,Kansas State University,7,32
+2017,Arizona State University,8,32
+2017,University of Miami (Florida),4,32
+2017,"University of Missouri, Columbia",6,32
+2017,Creighton University,7,32
+2017,Albany,16,64
+2017,Auburn,11,64
+2017,Belmont,13,64
+2017,Boise St.,13,64
+2017,Bucknell,14,64
+2017,Central Arkansas,14,64
+2017,Chattanooga,13,64
+2017,Dayton,12,64
+2017,Drake,10,64
+2017,Elon,11,64
+2017,FGCU,13,64
+2017,Gonzaga,11,64
+2017,Green Bay,8,64
+2017,Hampton,15,64
+2017,Iowa St.,9,64
+2017,Long Beach St.,15,64
+2017,LSU,8,64
+2017,Marquette,5,64
+2017,Michigan St.,9,64
+2017,Montana St.,14,64
+2017,New Mexico St.,15,64
+2017,Penn,12,64
+2017,Robert Morris,16,64
+2017,South Florida,11,64
+2017,Temple,7,64
+2017,Texas Southern,16,64
+2017,Toledo,10,64
+2017,Troy,15,64
+2017,UNC Asheville,16,64
+2017,UNI,10,64
+2017,Western Ill.,14,64
+2017,Western Ky.,12,64
+2017,University at Albany,16,64
+2017,Iowa State University,9,64
+2017,University of Pennsylvania,12,64
+2017,Boise State University,13,64
+2017,Elon University,11,64
+2017,Bucknell University,14,64
+2017,Temple University,7,64
+2017,Hampton University,15,64
+2017,Texas Southern University,16,64
+2017,Louisiana State University,8,64
+2017,University of Dayton,12,64
+2017,University of Tennessee at Chattanooga,13,64
+2017,Gonzaga University,11,64
+2017,Montana State University-Bozeman,14,64
+2017,University of Northern Iowa,10,64
+2017,Troy University,15,64
+2017,Robert Morris University,16,64
+2017,University of Wisconsin-Green Bay,8,64
+2017,Western Kentucky University,12,64
+2017,Belmont University,13,64
+2017,Auburn University,11,64
+2017,University of Central Arkansas,14,64
+2017,Drake University,10,64
+2017,New Mexico State University,15,64
+2017,University of North Carolina Asheville,16,64
+2017,Michigan State University,9,64
+2017,Marquette University,5,64
+2017,Florida Gulf Coast University,13,64
+2017,University of South Florida,11,64
+2017,Western Illinois University,14,64
+2017,University of Toledo,10,64
+2017,Long Beach State University,15,64
+2018,Notre Dame,1,1
+2018,University of Notre Dame,1,1
+2018,Mississippi St.,1,2
+2018,Mississippi State University,1,2
+2018,Louisville,1,4
+2018,UConn,1,4
+2018,University of Connecticut,1,4
+2018,University of Louisville,1,4
+2018,Oregon,2,8
+2018,Oregon St.,6,8
+2018,South Carolina,2,8
+2018,UCLA,3,8
+2018,"University of South Carolina, Columbia",2,8
+2018,University of Oregon,2,8
+2018,"University of California, Los Angeles",3,8
+2018,Oregon State University,6,8
+2018,Baylor,2,16
+2018,Buffalo,11,16
+2018,Central Mich.,11,16
+2018,Duke,5,16
+2018,NC State,4,16
+2018,Stanford,4,16
+2018,Texas,2,16
+2018,Texas A&M,4,16
+2018,Duke University,5,16
+2018,"University at Buffalo, the State University of New York",11,16
+2018,"Texas A&M University, College Station",4,16
+2018,Central Michigan University,11,16
+2018,North Carolina State University,4,16
+2018,University of Texas at Austin,2,16
+2018,Stanford University,4,16
+2018,Baylor University,2,16
+2018,Arizona St.,7,32
+2018,Creighton,11,32
+2018,DePaul,5,32
+2018,FGCU,12,32
+2018,Florida St.,3,32
+2018,Georgia,4,32
+2018,Marquette,8,32
+2018,Maryland,5,32
+2018,Michigan,7,32
+2018,Minnesota,10,32
+2018,Ohio St.,3,32
+2018,Oklahoma St.,9,32
+2018,Quinnipiac,9,32
+2018,South Dakota St.,12,32
+2018,Tennessee,3,32
+2018,Villanova,9,32
+2018,Virginia,10,32
+2018,Quinnipiac University,9,32
+2018,University of Georgia,4,32
+2018,Florida State University,3,32
+2018,University of Virginia,10,32
+2018,Villanova University,9,32
+2018,DePaul University,5,32
+2018,The Ohio State University,3,32
+2018,"University of Minnesota, Twin Cities",10,32
+2018,Oklahoma State University,9,32
+2018,"University of Maryland, College Park",5,32
+2018,Creighton University,11,32
+2018,Arizona State University,7,32
+2018,Marquette University,8,32
+2018,Florida Gulf Coast University,12,32
+2018,"University of Tennessee, Knoxville",3,32
+2018,University of Michigan,7,32
+2018,American,14,64
+2018,Belmont,12,64
+2018,Boise St.,16,64
+2018,California,7,64
+2018,CSUN,16,64
+2018,Dayton,9,64
+2018,Drake,13,64
+2018,Elon,13,64
+2018,George Washington,14,64
+2018,Gonzaga,13,64
+2018,Grambling,15,64
+2018,Green Bay,7,64
+2018,Iowa,6,64
+2018,Liberty,14,64
+2018,Little Rock,14,64
+2018,LSU,6,64
+2018,Maine,15,64
+2018,Mercer,13,64
+2018,Miami (FL),8,64
+2018,Missouri,5,64
+2018,NC A&T,15,64
+2018,Nebraska,10,64
+2018,Nicholls St.,16,64
+2018,Northern Colo.,10,64
+2018,Oklahoma,12,64
+2018,Princeton,12,64
+2018,Saint Francis (PA),16,64
+2018,Seattle,15,64
+2018,South Florida,6,64
+2018,Syracuse,8,64
+2018,Western Ky.,11,64
+2018,Saint Francis University (Pennsylvania),16,64
+2018,University of Miami (Florida),8,64
+2018,Belmont University,12,64
+2018,Mercer University,13,64
+2018,University of South Florida,6,64
+2018,University of Arkansas at Little Rock,14,64
+2018,"University of California, Berkeley",7,64
+2018,North Carolina A&T State University,15,64
+2018,"California State University, Northridge",16,64
+2018,South Dakota State University,8,64
+2018,University of Oklahoma,12,64
+2018,Drake University,13,64
+2018,Louisiana State University,6,64
+2018,George Washington University,14,64
+2018,University of Wisconsin-Green Bay,7,64
+2018,Seattle University,15,64
+2018,Nicholls State University,16,64
+2018,Syracuse University,8,64
+2018,Princeton University,12,64
+2018,Elon University,13,64
+2018,University of Iowa,6,64
+2018,American University,14,64
+2018,"University of Nebraska, Lincoln",10,64
+2018,University of Maine,15,64
+2018,Boise State University,16,64
+2018,University of Dayton,9,64
+2018,"University of Missouri, Columbia",5,64
+2018,Gonzaga University,13,64
+2018,Western Kentucky University,11,64
+2018,Liberty University,14,64
+2018,University of Northern Colorado,10,64
+2018,Grambling State University,15,64
+2019,Baylor University,1,1
+2019,University of Notre Dame,1,2
+2019,University of Oregon,2,4
+2019,University of Connecticut,2,4
+2019,University of Iowa,2,8
+2019,Mississippi State University,1,8
+2019,Stanford University,2,8
+2019,University of Louisville,1,8
+2019,"University of South Carolina, Columbia",4,16
+2019,North Carolina State University,3,16
+2019,Arizona State University,5,16
+2019,South Dakota State University,6,16
+2019,"Texas A&M University, College Station",4,16
+2019,Missouri State University,11,16
+2019,Oregon State University,4,16
+2019,"University of California, Los Angeles",6,16
+2019,"University of California, Berkeley",8,32
+2019,Florida State University,5,32
+2019,University of Kentucky,6,32
+2019,"University of Missouri, Columbia",7,32
+2019,Clemson University,9,32
+2019,University of Miami (Florida),4,32
+2019,Syracuse University,3,32
+2019,"Indiana University, Bloomington",10,32
+2019,Michigan State University,9,32
+2019,Marquette University,5,32
+2019,Iowa State University,3,32
+2019,Brigham Young University,7,32
+2019,University of Michigan,8,32
+2019,Gonzaga University,5,32
+2019,"University of Maryland, College Park",3,32
+2019,"University at Buffalo, the State University of New York",10,32
+2019,Abilene Christian University,16,64
+2019,"University of North Carolina, Chapel Hill",9,64
+2019,Bucknell University,12,64
+2019,Belmont University,13,64
+2019,Princeton University,11,64
+2019,University of Maine,14,64
+2019,Drake University,10,64
+2019,Mercer University,15,64
+2019,"Southern University, Baton Rouge",16,64
+2019,University of South Dakota,8,64
+2019,University of Central Florida,12,64
+2019,Florida Gulf Coast University,13,64
+2019,Quinnipiac University,11,64
+2019,Fordham University,14,64
+2019,University of Texas at Austin,7,64
+2019,Portland State University,15,64
+2019,Bethune-Cookman University,16,64
+2019,Central Michigan University,8,64
+2019,Rice University,12,64
+2019,Wright State University,13,64
+2019,DePaul University,6,64
+2019,New Mexico State University,14,64
+2019,Auburn University,10,64
+2019,"University of California, Davis",15,64
+2019,Robert Morris University,16,64
+2019,Kansas State University,9,64
+2019,University of Arkansas at Little Rock,12,64
+2019,Boise State University,13,64
+2019,"University of Tennessee, Knoxville",11,64
+2019,Radford University,14,64
+2019,"Rutgers, The State University of New Jersey, New Brunswick",7,64
+2019,Towson University,15,64
+2021,Stanford University,1,1
+2021,University of Arizona,3,2
+2021,"University of South Carolina, Columbia",1,4
+2021,University of Connecticut,1,4
+2021,University of Louisville,2,8
+2021,University of Texas at Austin,6,8
+2021,Baylor University,2,8
+2021,"Indiana University, Bloomington",4,8
+2021,Missouri State University,5,16
+2021,University of Oregon,6,16
+2021,Georgia Institute of Technology,5,16
+2021,"University of Maryland, College Park",2,16
+2021,University of Iowa,5,16
+2021,University of Michigan,6,16
+2021,North Carolina State University,1,16
+2021,"Texas A&M University, College Station",2,16
+2021,Oklahoma State University,8,32
+2021,Wright State University,13,32
+2021,University of Georgia,3,32
+2021,Northwestern University,7,32
+2021,Oregon State University,8,32
+2021,West Virginia University,4,32
+2021,"University of California, Los Angeles",3,32
+2021,University of Alabama,7,32
+2021,Syracuse University,8,32
+2021,University of Kentucky,4,32
+2021,"University of Tennessee, Knoxville",3,32
+2021,Virginia Polytechnic Institute and State University,7,32
+2021,University of South Florida,8,32
+2021,Belmont University,12,32
+2021,Brigham Young University,11,32
+2021,Iowa State University,7,32
+2021,Utah Valley University,16,64
+2021,Wake Forest University,9,64
+2021,"University of California, Davis",12,64
+2021,"University of Arkansas, Fayetteville",4,64
+2021,University of South Dakota,11,64
+2021,Drexel University,14,64
+2021,University of Central Florida,10,64
+2021,Marist College,15,64
+2021,Mercer University,16,64
+2021,Florida State University,9,64
+2021,Stephen F. Austin State University,12,64
+2021,Lehigh University,13,64
+2021,Bradley University,11,64
+2021,University of Wyoming,14,64
+2021,"University of North Carolina, Chapel Hill",10,64
+2021,Mount St. Mary's University,15,64
+2021,High Point University,16,64
+2021,South Dakota State University,9,64
+2021,Central Michigan University,12,64
+2021,Idaho State University,13,64
+2021,Florida Gulf Coast University,11,64
+2021,Middle Tennessee State University,14,64
+2021,Marquette University,10,64
+2021,Jackson State University,15,64
+2021,North Carolina A&T State University,16,64
+2021,Washington State University,9,64
+2021,Gonzaga University,5,64
+2021,Virginia Commonwealth University,13,64
+2021,"Rutgers, The State University of New Jersey, New Brunswick",6,64
+2021,Stony Brook University,14,64
+2021,Michigan State University,10,64
+2021,Troy University,15,64
+2022,"University of South Carolina, Columbia",1,1
+2022,University of Connecticut,2,2
+2022,University of Louisville,1,4
+2022,Stanford University,1,4
+2022,Creighton University,10,8
+2022,University of Michigan,3,8
+2022,University of Texas at Austin,2,8
+2022,North Carolina State University,1,8
+2022,"University of North Carolina, Chapel Hill",5,16
+2022,Iowa State University,3,16
+2022,"University of Tennessee, Knoxville",4,16
+2022,University of South Dakota,10,16
+2022,"University of Maryland, College Park",4,16
+2022,The Ohio State University,6,16
+2022,University of Notre Dame,5,16
+2022,"Indiana University, Bloomington",3,16
+2022,University of Miami (Florida),8,32
+2022,University of Arizona,4,32
+2022,University of Georgia,6,32
+2022,University of Iowa,2,32
+2022,Gonzaga University,9,32
+2022,Belmont University,12,32
+2022,Villanova University,11,32
+2022,Baylor University,2,32
+2022,University of Kansas,8,32
+2022,Florida Gulf Coast University,12,32
+2022,Louisiana State University,3,32
+2022,University of Utah,7,32
+2022,Kansas State University,9,32
+2022,University of Oklahoma,4,32
+2022,Princeton University,11,32
+2022,University of Central Florida,7,32
+2022,Howard University,16,64
+2022,University of South Florida,9,64
+2022,Stephen F. Austin State University,12,64
+2022,"University of Nevada, Las Vegas",13,64
+2022,University of Dayton,11,64
+2022,University of Texas at Arlington,14,64
+2022,"University of Colorado, Boulder",7,64
+2022,Illinois State University,15,64
+2022,University at Albany,16,64
+2022,"University of Nebraska, Lincoln",8,64
+2022,University of Oregon,5,64
+2022,"University at Buffalo, the State University of New York",13,64
+2022,Brigham Young University,6,64
+2022,American University,14,64
+2022,University of Mississippi,7,64
+2022,"University of Hawaii, Manoa",15,64
+2022,Montana State University-Bozeman,16,64
+2022,Georgia Institute of Technology,9,64
+2022,Virginia Polytechnic Institute and State University,5,64
+2022,University of Delaware,13,64
+2022,Missouri State University,11,64
+2022,Jackson State University,14,64
+2022,"University of Arkansas, Fayetteville",10,64
+2022,Fairfield University,15,64
+2022,Longwood University,16,64
+2022,Washington State University,8,64
+2022,"University of Massachusetts, Amherst",12,64
+2022,Indiana University-Purdue University Indianapolis,13,64
+2022,University of Kentucky,6,64
+2022,The University of North Carolina at Charlotte,14,64
+2022,University of Florida,10,64
+2022,Mercer University,15,64
+2022,University of the Incarnate Word,16,68
+2022,DePaul University,11,68
+2022,Mount St. Mary's University,16,68
+2022,Florida State University,11,68
