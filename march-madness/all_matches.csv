@@ -1858,7 +1858,7 @@ year,team,seed,finish,opponent,score
 2016,Mississippi State University,5,16,University of Connecticut,38-98
 2016,"University of California, Los Angeles",3,16,University of Texas at Austin,64-72
 2016,Florida State University,5,16,Baylor University,58-78
-2016,DePaul University,6,16,Oregon State University,71-83
+2016,DePaul,6,16,Oregon State University,71-83
 2016,"University of South Carolina, Columbia",1,16,Syracuse University,72-80
 2016,The Ohio State University,3,16,"University of Tennessee, Knoxville",62-78
 2016,University of Notre Dame,1,16,Stanford University,84-90
@@ -1885,7 +1885,7 @@ year,team,seed,finish,opponent,score
 2016,"University of Missouri, Columbia",10,32,University of Texas at Austin,55-73
 2016,Auburn University,9,32,Baylor University,52-84
 2016,"Texas A&M University, College Station",4,32,Florida State University,56-74
-2016,University of Louisville,3,32,DePaul University,72-73
+2016,University of Louisville,3,32,DePaul,72-73
 2016,St. Bonaventure University,10,32,Oregon State University,40-69
 2016,Kansas State University,9,32,"University of South Carolina, Columbia",47-73
 2016,University at Albany,12,32,Syracuse University,59-76
@@ -1939,7 +1939,7 @@ year,team,seed,finish,opponent,score
 2016,St. John's University (New York),8,64,Auburn University,57-68
 2016,Middle Tennessee State University,12,64,Florida State University,55-72
 2016,Missouri State University,13,64,"Texas A&M University, College Station",65-74
-2016,James Madison University,11,64,DePaul University,67-97
+2016,James Madison University,11,64,DePaul,67-97
 2016,University of Central Arkansas,14,64,University of Louisville,60-87
 2016,Oklahoma State University,7,64,St. Bonaventure University,54-65
 2016,Troy University,15,64,Oregon State University,31-73
@@ -2014,7 +2014,7 @@ year,team,seed,finish,opponent,score
 2017,"University of California, Berkeley",9,32,Baylor University,46-86
 2017,"University of Tennessee, Knoxville",5,32,University of Louisville,64-75
 2017,University of Oklahoma,6,32,University of Washington,82-108
-2017,DePaul University,7,32,Mississippi State University,71-92
+2017,DePaul,7,32,Mississippi State University,71-92
 2017,Purdue University,9,32,University of Notre Dame,82-88
 2017,University of Kentucky,4,32,The Ohio State University,68-82
 2017,North Carolina State University,6,32,University of Texas at Austin,80-84
@@ -2069,7 +2069,7 @@ year,team,seed,finish,opponent,score
 2017,University of Tennessee at Chattanooga,13,64,University of Louisville,62-82
 2017,Gonzaga University,11,64,University of Oklahoma,62-75
 2017,Montana State University-Bozeman,14,64,University of Washington,63-91
-2017,University of Northern Iowa,10,64,DePaul University,67-88
+2017,University of Northern Iowa,10,64,DePaul,67-88
 2017,Troy University,15,64,Mississippi State University,69-110
 2017,Robert Morris University,16,64,University of Notre Dame,49-79
 2017,University of Wisconsin-Green Bay,8,64,Purdue University,62-74
@@ -2141,7 +2141,7 @@ year,team,seed,finish,opponent,score
 2018,Florida State University,3,32,"University at Buffalo, the State University of New York",65-86
 2018,University of Virginia,10,32,"University of South Carolina, Columbia",56-66
 2018,Villanova University,9,32,University of Notre Dame,72-98
-2018,DePaul University,5,32,"Texas A&M University, College Station",79-80
+2018,DePaul,5,32,"Texas A&M University, College Station",79-80
 2018,The Ohio State University,3,32,Central Michigan University,78-95
 2018,"University of Minnesota, Twin Cities",10,32,University of Oregon,73-101
 2018,Oklahoma State University,9,32,Mississippi State University,56-71
@@ -2193,7 +2193,7 @@ year,team,seed,finish,opponent,score
 2018,North Carolina A&T State University,15,64,"University of South Carolina, Columbia",52-63
 2018,"California State University, Northridge",16,64,University of Notre Dame,81-99
 2018,South Dakota State University,8,64,Villanova University,74-81
-2018,University of Oklahoma,12,64,DePaul University,79-90
+2018,University of Oklahoma,12,64,DePaul,79-90
 2018,Drake University,13,64,"Texas A&M University, College Station",76-89
 2018,Louisiana State University,6,64,Central Michigan University,69-78
 2018,George Washington University,14,64,The Ohio State University,45-87
@@ -2266,8 +2266,8 @@ year,team,seed,finish,opponent,score
 2019,Bethune-Cookman University,16,64,University of Notre Dame,50-92
 2019,Central Michigan University,8,64,Michigan State University,87-88
 2019,Rice University,12,64,Marquette University,54-58
-2019,Wright State University,13,64,"Texas A&M University, College Station",61-84
-2019,DePaul University,6,64,Missouri State University,78-89
+2019,,13,64,"Texas A&M University, College Station",61-84
+2019,DePaul,6,64,Missouri State University,78-89
 2019,New Mexico State University,14,64,Iowa State University,61-97
 2019,Auburn University,10,64,Brigham Young University,64-73
 2019,"University of California, Davis",15,64,Stanford University,54-79
@@ -2296,7 +2296,7 @@ year,team,seed,finish,opponent,score
 2021,North Carolina State University,1,16,"Indiana University, Bloomington",70-73
 2021,"Texas A&M University, College Station",2,16,University of Arizona,59-74
 2021,Oklahoma State University,8,32,Stanford University,62-73
-2021,Wright State University,13,32,Missouri State University,39-64
+2021,,13,32,Missouri State University,39-64
 2021,University of Georgia,3,32,University of Oregon,50-57
 2021,Northwestern University,7,32,University of Louisville,53-62
 2021,Oregon State University,8,32,"University of South Carolina, Columbia",42-59
@@ -2314,7 +2314,7 @@ year,team,seed,finish,opponent,score
 2021,Utah Valley University,16,64,Stanford University,44-87
 2021,Wake Forest University,9,64,Oklahoma State University,61-84
 2021,"University of California, Davis",12,64,Missouri State University,51-70
-2021,"University of Arkansas, Fayetteville",4,64,Wright State University,62-66
+2021,"University of Arkansas, Fayetteville",4,64,,62-66
 2021,University of South Dakota,11,64,University of Oregon,47-67
 2021,Drexel University,14,64,University of Georgia,53-67
 2021,University of Central Florida,10,64,Northwestern University,51-62
@@ -2408,6 +2408,6 @@ year,team,seed,finish,opponent,score
 2022,University of Florida,10,64,University of Central Florida,52-69
 2022,Mercer University,15,64,University of Connecticut,38-83
 2022,University of the Incarnate Word,16,68,Howard University,51-55
-2022,DePaul University,11,68,University of Dayton,57-88
+2022,DePaul,11,68,University of Dayton,57-88
 2022,Mount St. Mary's University,16,68,Longwood University,70-74
 2022,Florida State University,11,68,Missouri State University,50-61
