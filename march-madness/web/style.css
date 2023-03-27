@@ -35,3 +35,11 @@ svg:last-child {
     font-weight: bold;
     font-family: Lexend, sans-serif;
 }
+
+#seed-div {
+    min-width: 75px;
+}
+
+p {
+    max-width: 1000px !important;
+}
