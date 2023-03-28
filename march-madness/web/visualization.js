@@ -130,6 +130,7 @@ function drawPack(svg, x, y, teams) {
 }
 
 function drawYear(teams, year) {
+    console.log(year);
     const subset = teams
         .filter(m => m["year"] === String(year) && m["finish"] !== "68");
 
@@ -155,7 +156,12 @@ function drawYear(teams, year) {
     for (let i = 0; i < finishes.length; i++) {
         const finish = finishes[i];
         const finishTeams = subset.filter(m => m["finish"] === `${finish}`);
-        drawPack(svg, x, 0, finishTeams);
+        if (finishTeams.length > 0) {
+            drawPack(svg, x, 0, finishTeams);
+        } else {
+            console.log(finish)
+            console.log(finishTeams)
+        }
         x += (i < 2 ? 0.8 : (i > 2 ? 1.2 : 1.1)) / 7.5 * (width - 20);
     }
 

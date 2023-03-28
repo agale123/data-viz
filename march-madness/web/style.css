@@ -52,7 +52,8 @@ svg:last-child {
 }
 
 p {
-    max-width: 1000px !important;
+    max-width: 600px !important;
+    text-align: center;
 }
 
 div.tooltip {
