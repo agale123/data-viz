@@ -10,7 +10,7 @@ let team = undefined;
 /** Use the viridis color palette to color based on seed. */
 function colorTeam(seed) {
     seed = parseInt(seed);
-    const myColor = d3.scaleSequential().domain([1, 16])
+    const myColor = d3.scaleSequential().domain([16, 1])
         .interpolator(d3.interpolateViridis);
     return myColor(seed);
 }
