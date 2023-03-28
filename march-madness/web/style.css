@@ -22,7 +22,8 @@ body,
 
 }
 
-svg {
+svg,
+#labels {
     border-bottom: 1px dashed grey;
 }
 
@@ -36,6 +37,15 @@ svg:last-child {
     font-family: Lexend, sans-serif;
 }
 
+.text-sm {
+    font-size: 12px;
+    font-family: Lexend, sans-serif;
+}
+
+.text-md {
+    font-size: 14px;
+    font-family: Lexend, sans-serif;
+}
 #seed-div {
     min-width: 75px;
 }

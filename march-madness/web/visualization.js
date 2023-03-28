@@ -111,12 +111,13 @@ function drawPack(svg, x, y, teams) {
         .data(locations)
         .join("circle")
         .attr("stroke", "none")
+        .attr("stroke-width", "2px")
         .attr("fill", d => colorTeam(d["seed"]))
         .attr("fill-opacity", d => opacityTeam(d))
         .attr("r", d => d["r"])
         .attr("transform", d => `translate(${x + d["x"]},${y + d["y"]})`)
         .attr("label", d => {
-            let text = `<b>${d["team"]}</b>`;
+            let text = `<b>${d["team"]}</b> (${d["seed"]})`;
             if (!d["score"] || !d["opponent"]) {
                 return text;
             } else if (d["finish"] === "1") {
@@ -124,7 +125,6 @@ function drawPack(svg, x, y, teams) {
             } else {
                 return text + `<br>Lost ${d["score"]} to ${d["opponent"]}`;
             }
-
         });
 
 }
@@ -132,10 +132,6 @@ function drawPack(svg, x, y, teams) {
 function drawYear(teams, year) {
     const subset = teams
         .filter(m => m["year"] === String(year) && m["finish"] !== "68");
-
-    // Calculate width for chart
-    width = Math.min(document.querySelector("#host").clientWidth, MAX_WIDTH);
-    height = 50 + 100 * (width / MAX_WIDTH)
 
     // Draw svg
     const svg = d3
@@ -170,15 +166,104 @@ function drawYear(teams, year) {
         .attr("class", "tooltip")
         .style("opacity", 0);
 
-    svg.selectAll("circle").on("mouseover", (e) => {
-        tooltip.html(e.target.attributes["label"].value);
-        tooltip
-            .style("opacity", 1)
-            .style("left", (e.pageX - tooltip.property("clientWidth") / 2) + "px")
-            .style("top", e.pageY + 10 + "px");
-    }).on("mouseout", () => {
-        tooltip.style("opacity", 0);
-    });
+
+
+    svg.selectAll("circle")
+        .on("mouseover", (e) => {
+            let toolX = (e.pageX - tooltip.property("clientWidth") / 2);
+            toolX = Math.max(toolX, 0);
+            toolX = Math.min(toolX, width - tooltip.property("clientWidth"));
+            tooltip.html(e.target.attributes["label"].value);
+            tooltip
+                .style("opacity", 1)
+                .style("left", toolX + "px")
+                .style("top", e.pageY + 10 + "px");
+            e.target.attributes["stroke"].value = "black";
+
+        }).on("mouseout", (e) => {
+            tooltip.style("opacity", 0)
+                .style("left", "-100px")
+                .style("top", "-100px");
+            e.target.attributes["stroke"].value = "none";
+        });
+}
+
+const LABELS = [
+    "Champion",
+    "Runner-up",
+    "Final 4",
+    "Elite 8",
+    "Sweet 16",
+    "2nd Round",
+    "1st Round"
+];
+
+function drawLabels() {
+
+    // Clear any past svg elements
+    d3.select("#labels").selectAll("*").remove();
+
+    const labelH = 70;
+
+    // Draw svg
+    const svg = d3
+        .select("#labels")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", labelH);
+
+    let x = 10;
+    for (let i = 0; i < LABELS.length; i++) {
+        svg.append("g").attr("class", "text-sm").append("text")
+            .attr("width", height)
+            .attr("x", x + height / 2)
+            .attr("y", labelH - 10)
+            .attr("text-anchor", "end")
+            .attr("transform", `rotate(45,${x + height / 2},${labelH - 10})`)
+            .text(LABELS[i]);
+        x += (i < 2 ? 0.8 : (i > 2 ? 1.2 : 1.1)) / 7.5 * (width - 20);
+    }
+}
+
+function drawLegend() {
+    // Clear any past svg elements
+    d3.select("#legend").selectAll("*").remove();
+
+    const legendH = 15;
+
+    // Draw svg
+    const svg = d3
+        .select("#legend")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", legendH);
+
+    const xStart = (width / 2 - 16 * (legendH + 3) / 2)
+    svg.selectAll("circle")
+        .data([...Array(16).keys()].map(x => ({ "seed": x + 1 })))
+        .join("circle")
+        .attr("fill", d => colorTeam(d["seed"]))
+        .attr("r", legendH / 2)
+        .attr("transform", d => {
+            const x = xStart + (parseInt(d["seed"]) - 0.5) * (legendH + 3);
+            return `translate(${x},${legendH / 2})`;
+        });
+
+    svg.append("g").attr("class", "text-md").append("text")
+        .attr("width", 20)
+        .attr("x", xStart - 3)
+        .attr("y", -1)
+        .attr("text-anchor", "end")
+        .attr("alignment-baseline", "text-before-edge")
+        .text("#1");
+
+    svg.append("g").attr("class", "text-md").append("text")
+        .attr("width", 20)
+        .attr("x", width - xStart + (legendH + 3) + 10)
+        .attr("y", -1)
+        .attr("text-anchor", "end")
+        .attr("alignment-baseline", "text-before-edge")
+        .text("#16");
 }
 
 let teams;
@@ -186,6 +271,14 @@ let teams;
 async function drawChart() {
     // Clear any past svg elements
     d3.select("#host").selectAll("*").remove();
+
+    // Calculate width for chart
+    width = Math.min(document.querySelector("#host").clientWidth, MAX_WIDTH);
+    height = 50 + 100 * (width / MAX_WIDTH)
+
+    // Draw labels and legend above
+    drawLabels();
+    drawLegend();
 
     // Draw all the rows
     const years = dedupeAndSort(teams.map(t => parseInt(t["year"]))).reverse();
