@@ -114,7 +114,18 @@ function drawPack(svg, x, y, teams) {
         .attr("fill", d => colorTeam(d["seed"]))
         .attr("fill-opacity", d => opacityTeam(d))
         .attr("r", d => d["r"])
-        .attr("transform", d => `translate(${x + d["x"]},${y + d["y"]})`);
+        .attr("transform", d => `translate(${x + d["x"]},${y + d["y"]})`)
+        .attr("label", d => {
+            let text = `<b>${d["team"]}</b>`;
+            if (!d["score"] || !d["opponent"]) {
+                return text;
+            } else if (d["finish"] === "1") {
+                return text + `<br>Won ${d["score"]} vs ${d["opponent"]}`;
+            } else {
+                return text + `<br>Lost ${d["score"]} to ${d["opponent"]}`;
+            }
+
+        });
 
 }
 
@@ -151,6 +162,23 @@ function drawYear(teams, year) {
         drawPack(svg, x, 0, finishTeams);
         x += (i < 2 ? 0.8 : (i > 2 ? 1.2 : 1.1)) / 7.5 * (width - 20);
     }
+
+    // Add tooltip
+    const tooltip = d3
+        .select("#host")
+        .append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
+    svg.selectAll("circle").on("mouseover", (e) => {
+        tooltip.html(e.target.attributes["label"].value);
+        tooltip
+            .style("opacity", 1)
+            .style("left", (e.pageX - tooltip.property("clientWidth") / 2) + "px")
+            .style("top", e.pageY + 10 + "px");
+    }).on("mouseout", () => {
+        tooltip.style("opacity", 0);
+    });
 }
 
 let teams;
@@ -159,6 +187,7 @@ async function drawChart() {
     // Clear any past svg elements
     d3.select("#host").selectAll("*").remove();
 
+    // Draw all the rows
     const years = dedupeAndSort(teams.map(t => parseInt(t["year"]))).reverse();
     for (const year of years) {
         drawYear(teams, year);

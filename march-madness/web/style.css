@@ -43,3 +43,13 @@ svg:last-child {
 p {
     max-width: 1000px !important;
 }
+
+div.tooltip {
+    color: rgb(33, 37, 41);
+    background: #fff;
+    padding: .5em;
+    font-size: x-small;
+    border-radius: 4px;
+    border: 1px solid rgb(222, 226, 230);
+    position: absolute;
+}
