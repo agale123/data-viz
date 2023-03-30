@@ -130,7 +130,6 @@ function drawPack(svg, x, y, teams) {
 }
 
 function drawYear(teams, year) {
-    console.log(year);
     const subset = teams
         .filter(m => m["year"] === String(year) && m["finish"] !== "68");
 
@@ -158,9 +157,6 @@ function drawYear(teams, year) {
         const finishTeams = subset.filter(m => m["finish"] === `${finish}`);
         if (finishTeams.length > 0) {
             drawPack(svg, x, 0, finishTeams);
-        } else {
-            console.log(finish)
-            console.log(finishTeams)
         }
         x += (i < 2 ? 0.8 : (i > 2 ? 1.2 : 1.1)) / 7.5 * (width - 20);
     }
@@ -172,18 +168,24 @@ function drawYear(teams, year) {
         .attr("class", "tooltip")
         .style("opacity", 0);
 
-
+    
 
     svg.selectAll("circle")
         .on("mouseover", (e) => {
+            const clientWidth = document.body.clientWidth;
+            const clientHeight = document.body.clientHeight - 10;
             let toolX = (e.pageX - tooltip.property("clientWidth") / 2);
             toolX = Math.max(toolX, 0);
-            toolX = Math.min(toolX, width - tooltip.property("clientWidth"));
+            toolX = Math.min(toolX, clientWidth - tooltip.property("clientWidth"));
+            let toolY = e.pageY + 10;
+            if (toolY > clientHeight - tooltip.property("clientHeight") - 10) {
+                toolY = e.pageY - tooltip.property("clientHeight") - 10;
+            }
             tooltip.html(e.target.attributes["label"].value);
             tooltip
                 .style("opacity", 1)
                 .style("left", toolX + "px")
-                .style("top", e.pageY + 10 + "px");
+                .style("top", toolY + "px");
             e.target.attributes["stroke"].value = "black";
 
         }).on("mouseout", (e) => {
@@ -209,7 +211,7 @@ function drawLabels() {
     // Clear any past svg elements
     d3.select("#labels").selectAll("*").remove();
 
-    const labelH = 70;
+    const labelH = 50;
 
     // Draw svg
     const svg = d3
@@ -225,7 +227,7 @@ function drawLabels() {
             .attr("x", x + height / 2)
             .attr("y", labelH - 10)
             .attr("text-anchor", "end")
-            .attr("transform", `rotate(45,${x + height / 2},${labelH - 10})`)
+            .attr("transform", `rotate(30,${x + height / 2},${labelH - 10})`)
             .text(LABELS[i]);
         x += (i < 2 ? 0.8 : (i > 2 ? 1.2 : 1.1)) / 7.5 * (width - 20);
     }

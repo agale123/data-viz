@@ -20,7 +20,6 @@ body,
 
 #host {
     width: 100%;
-
 }
 
 svg,
@@ -47,9 +46,19 @@ svg:last-child {
     font-size: 14px;
     font-family: Lexend, sans-serif;
 }
-#seed-div {
-    min-width: 75px;
+#seed {
+    width: 70px;
 }
+
+#team {
+    width: 220px;
+}
+
+@media only screen and (max-width: 600px) {
+    #team {
+        width: 180px;
+    }
+  }
 
 p {
     max-width: 600px !important;

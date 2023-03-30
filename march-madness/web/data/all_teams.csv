@@ -1959,331 +1959,331 @@ year,team,seed,finish,opponent,score
 2017,UNI,10,64,,
 2017,Western Ill.,14,64,,
 2017,Western Ky.,12,64,,
-2018,University of Notre Dame,1,1,Mississippi St.,61-58
-2018,Mississippi St.,1,2,University of Notre Dame,58-61
-2018,University of Connecticut,1,4,University of Notre Dame,89-91
-2018,University of Louisville,1,4,Mississippi St.,63-73
-2018,"University of South Carolina, Columbia",2,8,University of Connecticut,65-94
-2018,University of Oregon,2,8,University of Notre Dame,74-84
-2018,"University of California, Los Angeles",3,8,Mississippi St.,73-89
-2018,Oregon State University,6,8,University of Louisville,43-76
-2018,Duke,5,16,University of Connecticut,59-72
-2018,"University at Buffalo, the State University of New York",11,16,"University of South Carolina, Columbia",63-79
-2018,"Texas A&M University, College Station",4,16,University of Notre Dame,84-90
-2018,Central Michigan,11,16,University of Oregon,69-83
-2018,North Carolina State University,4,16,Mississippi St.,57-71
-2018,University of Texas at Austin,2,16,"University of California, Los Angeles",75-84
-2018,Stanford University,4,16,University of Louisville,59-86
-2018,Baylor,2,16,Oregon State University,67-72
-2018,Quinnipiac University,9,32,University of Connecticut,46-71
-2018,University of Georgia,4,32,Duke,40-66
-2018,Florida St.,3,32,"University at Buffalo, the State University of New York",65-86
-2018,University of Virginia,10,32,"University of South Carolina, Columbia",56-66
-2018,Villanova University,9,32,University of Notre Dame,72-98
-2018,DePaul,5,32,"Texas A&M University, College Station",79-80
-2018,The Ohio State University,3,32,Central Michigan,78-95
-2018,"University of Minnesota, Twin Cities",10,32,University of Oregon,73-101
-2018,Oklahoma State University,9,32,Mississippi St.,56-71
-2018,"University of Maryland, College Park",5,32,North Carolina State University,60-74
-2018,Creighton,11,32,"University of California, Los Angeles",64-86
-2018,Arizona St.,7,32,University of Texas at Austin,65-85
-2018,Marquette,8,32,University of Louisville,72-90
-2018,FGCU,12,32,Stanford University,70-90
-2018,"University of Tennessee, Knoxville",3,32,Oregon State University,59-66
-2018,University of Michigan,7,32,Baylor,58-80
-2018,Saint Francis University (Pennsylvania),16,64,University of Connecticut,52-140
-2018,University of Miami (Florida),8,64,Quinnipiac University,72-86
+2018,Notre Dame,1,1,Mississippi St.,61-58
+2018,Mississippi St.,1,2,Notre Dame,58-61
+2018,UConn,1,4,Notre Dame,89-91
+2018,Louisville,1,4,Mississippi St.,63-73
+2018,South Carolina,2,8,UConn,65-94
+2018,Oregon,2,8,Notre Dame,74-84
+2018,UCLA,3,8,Mississippi St.,73-89
+2018,Oregon St.,6,8,Louisville,43-76
+2018,Duke,5,16,UConn,59-72
+2018,Buffalo,11,16,South Carolina,63-79
+2018,Texas A&M,4,16,Notre Dame,84-90
+2018,Central Mich.,11,16,Oregon,69-83
+2018,NC State,4,16,Mississippi St.,57-71
+2018,Texas,2,16,UCLA,75-84
+2018,Stanford,4,16,Louisville,59-86
+2018,Baylor,2,16,Oregon St.,67-72
+2018,Quinnipiac,9,32,UConn,46-71
+2018,Georgia,4,32,Duke,40-66
+2018,Florida St.,3,32,Buffalo,65-86
+2018,Virginia,10,32,South Carolina,56-66
+2018,Villanova,9,32,Notre Dame,72-98
+2018,DePaul,5,32,Texas A&M,79-80
+2018,Ohio St.,3,32,Central Mich.,78-95
+2018,Minnesota,10,32,Oregon,73-101
+2018,Oklahoma St.,9,32,Mississippi St.,56-71
+2018,Maryland,5,32,NC State,60-74
+2018,Creighton,11,32,UCLA,64-86
+2018,Arizona St.,7,32,Texas,65-85
+2018,Marquette,8,32,Louisville,72-90
+2018,FGCU,12,32,Stanford,70-90
+2018,Tennessee,3,32,Oregon St.,59-66
+2018,Michigan,7,32,Baylor,58-80
+2018,Saint Francis (PA),16,64,UConn,52-140
+2018,Miami (FL),8,64,Quinnipiac,72-86
 2018,Belmont,12,64,Duke,58-72
-2018,Mercer,13,64,University of Georgia,63-68
-2018,University of South Florida,6,64,"University at Buffalo, the State University of New York",79-102
-2018,University of Arkansas at Little Rock,14,64,Florida St.,49-91
-2018,"University of California, Berkeley",7,64,University of Virginia,62-68
-2018,North Carolina A&T State University,15,64,"University of South Carolina, Columbia",52-63
-2018,CSUN,16,64,University of Notre Dame,81-99
-2018,South Dakota State University,8,64,Villanova University,74-81
-2018,University of Oklahoma,12,64,DePaul,79-90
-2018,Drake,13,64,"Texas A&M University, College Station",76-89
-2018,Louisiana St.,6,64,Central Michigan,69-78
-2018,George Washington,14,64,The Ohio State University,45-87
-2018,University of Wisconsin-Green Bay,7,64,"University of Minnesota, Twin Cities",77-89
-2018,Seattle University,15,64,University of Oregon,45-88
-2018,Nicholls State University,16,64,Mississippi St.,50-95
-2018,Syracuse University,8,64,Oklahoma State University,57-84
-2018,Princeton University,12,64,"University of Maryland, College Park",57-77
-2018,Elon,13,64,North Carolina State University,35-62
-2018,University of Iowa,6,64,Creighton,70-76
-2018,American,14,64,"University of California, Los Angeles",60-71
-2018,"University of Nebraska, Lincoln",10,64,Arizona St.,62-73
-2018,University of Maine,15,64,University of Texas at Austin,54-83
-2018,Boise St.,16,64,University of Louisville,42-74
-2018,University of Dayton,9,64,Marquette,65-84
-2018,"University of Missouri, Columbia",5,64,FGCU,70-80
-2018,Gonzaga,13,64,Stanford University,68-82
-2018,Western Kentucky University,11,64,Oregon State University,58-82
-2018,Liberty,14,64,"University of Tennessee, Knoxville",60-100
-2018,University of Northern Colorado,10,64,University of Michigan,61-75
+2018,Mercer,13,64,Georgia,63-68
+2018,South Florida,6,64,Buffalo,79-102
+2018,Little Rock,14,64,Florida St.,49-91
+2018,California,7,64,Virginia,62-68
+2018,NC A&T,15,64,South Carolina,52-63
+2018,CSUN,16,64,Notre Dame,81-99
+2018,South Dakota St.,8,64,Villanova,74-81
+2018,Oklahoma,12,64,DePaul,79-90
+2018,Drake,13,64,Texas A&M,76-89
+2018,LSU,6,64,Central Mich.,69-78
+2018,George Washington,14,64,Ohio St.,45-87
+2018,Green Bay,7,64,Minnesota,77-89
+2018,Seattle,15,64,Oregon,45-88
+2018,Nicholls St.,16,64,Mississippi St.,50-95
+2018,Syracuse,8,64,Oklahoma St.,57-84
+2018,Princeton,12,64,Maryland,57-77
+2018,Elon,13,64,NC State,35-62
+2018,Iowa,6,64,Creighton,70-76
+2018,American,14,64,UCLA,60-71
+2018,Nebraska,10,64,Arizona St.,62-73
+2018,Maine,15,64,Texas,54-83
+2018,Boise St.,16,64,Louisville,42-74
+2018,Dayton,9,64,Marquette,65-84
+2018,Missouri,5,64,FGCU,70-80
+2018,Gonzaga,13,64,Stanford,68-82
+2018,Western Ky.,11,64,Oregon St.,58-82
+2018,Liberty,14,64,Tennessee,60-100
+2018,Northern Colo.,10,64,Michigan,61-75
 2018,Grambling,15,64,Baylor,46-96
-2019,Baylor,1,1,University of Notre Dame,82-81
-2019,University of Notre Dame,1,2,Baylor,81-82
-2019,University of Oregon,2,4,Baylor,67-72
-2019,University of Connecticut,2,4,University of Notre Dame,76-81
-2019,University of Iowa,2,8,Baylor,53-85
-2019,Mississippi St.,1,8,University of Oregon,84-88
-2019,Stanford University,2,8,University of Notre Dame,68-84
-2019,University of Louisville,1,8,University of Connecticut,73-80
-2019,"University of South Carolina, Columbia",4,16,Baylor,68-93
-2019,North Carolina State University,3,16,University of Iowa,61-79
+2019,Baylor,1,1,Notre Dame,82-81
+2019,Notre Dame,1,2,Baylor,81-82
+2019,Oregon,2,4,Baylor,67-72
+2019,UConn,2,4,Notre Dame,76-81
+2019,Iowa,2,8,Baylor,53-85
+2019,Mississippi St.,1,8,Oregon,84-88
+2019,Stanford,2,8,Notre Dame,68-84
+2019,Louisville,1,8,UConn,73-80
+2019,South Carolina,4,16,Baylor,68-93
+2019,NC State,3,16,Iowa,61-79
 2019,Arizona St.,5,16,Mississippi St.,53-76
-2019,South Dakota State University,6,16,University of Oregon,53-63
-2019,"Texas A&M University, College Station",4,16,University of Notre Dame,80-87
-2019,Missouri St.,11,16,Stanford University,46-55
-2019,Oregon State University,4,16,University of Louisville,44-61
-2019,"University of California, Los Angeles",6,16,University of Connecticut,61-69
-2019,"University of California, Berkeley",8,32,Baylor,63-102
-2019,Florida St.,5,32,"University of South Carolina, Columbia",64-72
-2019,University of Kentucky,6,32,North Carolina State University,57-72
-2019,"University of Missouri, Columbia",7,32,University of Iowa,52-68
+2019,South Dakota St.,6,16,Oregon,53-63
+2019,Texas A&M,4,16,Notre Dame,80-87
+2019,Missouri St.,11,16,Stanford,46-55
+2019,Oregon St.,4,16,Louisville,44-61
+2019,UCLA,6,16,UConn,61-69
+2019,California,8,32,Baylor,63-102
+2019,Florida St.,5,32,South Carolina,64-72
+2019,Kentucky,6,32,NC State,57-72
+2019,Missouri,7,32,Iowa,52-68
 2019,Clemson,9,32,Mississippi St.,61-85
-2019,University of Miami (Florida),4,32,Arizona St.,55-57
-2019,Syracuse University,3,32,South Dakota State University,64-75
-2019,"Indiana University, Bloomington",10,32,University of Oregon,68-91
-2019,Michigan St.,9,32,University of Notre Dame,63-91
-2019,Marquette,5,32,"Texas A&M University, College Station",76-78
+2019,Miami (FL),4,32,Arizona St.,55-57
+2019,Syracuse,3,32,South Dakota St.,64-75
+2019,Indiana,10,32,Oregon,68-91
+2019,Michigan St.,9,32,Notre Dame,63-91
+2019,Marquette,5,32,Texas A&M,76-78
 2019,Iowa St.,3,32,Missouri St.,60-69
-2019,BYU,7,32,Stanford University,63-72
-2019,University of Michigan,8,32,University of Louisville,50-71
-2019,Gonzaga,5,32,Oregon State University,70-76
-2019,"University of Maryland, College Park",3,32,"University of California, Los Angeles",80-85
-2019,"University at Buffalo, the State University of New York",10,32,University of Connecticut,72-84
+2019,BYU,7,32,Stanford,63-72
+2019,Michigan,8,32,Louisville,50-71
+2019,Gonzaga,5,32,Oregon St.,70-76
+2019,Maryland,3,32,UCLA,80-85
+2019,Buffalo,10,32,UConn,72-84
 2019,Abilene Christian,16,64,Baylor,38-95
-2019,"University of North Carolina, Chapel Hill",9,64,"University of California, Berkeley",72-92
+2019,North Carolina,9,64,California,72-92
 2019,Bucknell,12,64,Florida St.,67-70
-2019,Belmont,13,64,"University of South Carolina, Columbia",52-74
-2019,Princeton University,11,64,University of Kentucky,77-82
-2019,University of Maine,14,64,North Carolina State University,51-63
-2019,Drake,10,64,"University of Missouri, Columbia",76-77
-2019,Mercer,15,64,University of Iowa,61-66
-2019,"Southern University, Baton Rouge",16,64,Mississippi St.,46-103
-2019,University of South Dakota,8,64,Clemson,66-79
-2019,University of Central Florida,12,64,Arizona St.,45-60
-2019,FGCU,13,64,University of Miami (Florida),62-69
-2019,Quinnipiac University,11,64,South Dakota State University,65-76
-2019,Fordham,14,64,Syracuse University,49-70
-2019,University of Texas at Austin,7,64,"Indiana University, Bloomington",65-69
-2019,Portland State University,15,64,University of Oregon,40-78
-2019,Bethune-Cookman,16,64,University of Notre Dame,50-92
-2019,Central Michigan,8,64,Michigan St.,87-88
-2019,Rice University,12,64,Marquette,54-58
-2019,,13,64,"Texas A&M University, College Station",61-84
+2019,Belmont,13,64,South Carolina,52-74
+2019,Princeton,11,64,Kentucky,77-82
+2019,Maine,14,64,NC State,51-63
+2019,Drake,10,64,Missouri,76-77
+2019,Mercer,15,64,Iowa,61-66
+2019,Southern,16,64,Mississippi St.,46-103
+2019,South Dakota,8,64,Clemson,66-79
+2019,UCF,12,64,Arizona St.,45-60
+2019,FGCU,13,64,Miami (FL),62-69
+2019,Quinnipiac,11,64,South Dakota St.,65-76
+2019,Fordham,14,64,Syracuse,49-70
+2019,Texas,7,64,Indiana,65-69
+2019,Portland St.,15,64,Oregon,40-78
+2019,Bethune-Cookman,16,64,Notre Dame,50-92
+2019,Central Mich.,8,64,Michigan St.,87-88
+2019,Rice,12,64,Marquette,54-58
+2019,Wright St.,13,64,Texas A&M,61-84
 2019,DePaul,6,64,Missouri St.,78-89
-2019,New Mexico State University,14,64,Iowa St.,61-97
+2019,New Mexico St.,14,64,Iowa St.,61-97
 2019,Auburn,10,64,BYU,64-73
-2019,"University of California, Davis",15,64,Stanford University,54-79
-2019,Robert Morris University,16,64,University of Louisville,34-69
-2019,Kansas St.,9,64,University of Michigan,54-84
-2019,University of Arkansas at Little Rock,12,64,Gonzaga,51-68
-2019,Boise St.,13,64,Oregon State University,75-80
-2019,"University of Tennessee, Knoxville",11,64,"University of California, Los Angeles",77-89
-2019,Radford University,14,64,"University of Maryland, College Park",51-73
-2019,"Rutgers, The State University of New Jersey, New Brunswick",7,64,"University at Buffalo, the State University of New York",71-82
-2019,Towson University,15,64,University of Connecticut,61-110
-2021,Stanford University,1,1,University of Arizona,54-53
-2021,University of Arizona,3,2,Stanford University,53-54
-2021,"University of South Carolina, Columbia",1,4,Stanford University,65-66
-2021,University of Connecticut,1,4,University of Arizona,59-69
-2021,University of Louisville,2,8,Stanford University,63-78
-2021,University of Texas at Austin,6,8,"University of South Carolina, Columbia",34-62
-2021,Baylor,2,8,University of Connecticut,67-69
-2021,"Indiana University, Bloomington",4,8,University of Arizona,53-66
-2021,Missouri St.,5,16,Stanford University,62-89
-2021,University of Oregon,6,16,University of Louisville,42-60
-2021,Georgia Tech,5,16,"University of South Carolina, Columbia",65-76
-2021,"University of Maryland, College Park",2,16,University of Texas at Austin,61-64
-2021,University of Iowa,5,16,University of Connecticut,72-92
-2021,University of Michigan,6,16,Baylor,75-78
-2021,North Carolina State University,1,16,"Indiana University, Bloomington",70-73
-2021,"Texas A&M University, College Station",2,16,University of Arizona,59-74
-2021,Oklahoma State University,8,32,Stanford University,62-73
-2021,,13,32,Missouri St.,39-64
-2021,University of Georgia,3,32,University of Oregon,50-57
-2021,Northwestern University,7,32,University of Louisville,53-62
-2021,Oregon State University,8,32,"University of South Carolina, Columbia",42-59
-2021,West Virginia University,4,32,Georgia Tech,56-73
-2021,"University of California, Los Angeles",3,32,University of Texas at Austin,62-71
-2021,University of Alabama,7,32,"University of Maryland, College Park",64-100
-2021,Syracuse University,8,32,University of Connecticut,47-83
-2021,University of Kentucky,4,32,University of Iowa,72-86
-2021,"University of Tennessee, Knoxville",3,32,University of Michigan,55-70
-2021,Virginia Polytechnic Institute and State University,7,32,Baylor,48-90
-2021,University of South Florida,8,32,North Carolina State University,67-79
-2021,Belmont,12,32,"Indiana University, Bloomington",48-70
-2021,BYU,11,32,University of Arizona,46-52
-2021,Iowa St.,7,32,"Texas A&M University, College Station",82-84
-2021,Utah Valley University,16,64,Stanford University,44-87
-2021,Wake Forest University,9,64,Oklahoma State University,61-84
-2021,"University of California, Davis",12,64,Missouri St.,51-70
-2021,"University of Arkansas, Fayetteville",4,64,,62-66
-2021,University of South Dakota,11,64,University of Oregon,47-67
-2021,Drexel,14,64,University of Georgia,53-67
-2021,University of Central Florida,10,64,Northwestern University,51-62
-2021,Marist,15,64,University of Louisville,43-74
-2021,Mercer,16,64,"University of South Carolina, Columbia",53-79
-2021,Florida St.,9,64,Oregon State University,59-83
-2021,Stephen F. Austin State University,12,64,Georgia Tech,52-54
-2021,Lehigh,13,64,West Virginia University,53-77
-2021,Bradley,11,64,University of Texas at Austin,62-81
-2021,University of Wyoming,14,64,"University of California, Los Angeles",48-69
-2021,"University of North Carolina, Chapel Hill",10,64,University of Alabama,71-80
-2021,Mount St. Mary's University,15,64,"University of Maryland, College Park",45-98
-2021,High Point,16,64,University of Connecticut,59-102
-2021,South Dakota State University,9,64,Syracuse University,55-72
-2021,Central Michigan,12,64,University of Iowa,72-87
-2021,Idaho St.,13,64,University of Kentucky,63-71
-2021,FGCU,11,64,University of Michigan,66-87
-2021,Middle Tenn.,14,64,"University of Tennessee, Knoxville",62-87
-2021,Marquette,10,64,Virginia Polytechnic Institute and State University,63-70
+2019,UC Davis,15,64,Stanford,54-79
+2019,Robert Morris,16,64,Louisville,34-69
+2019,Kansas St.,9,64,Michigan,54-84
+2019,Little Rock,12,64,Gonzaga,51-68
+2019,Boise St.,13,64,Oregon St.,75-80
+2019,Tennessee,11,64,UCLA,77-89
+2019,Radford,14,64,Maryland,51-73
+2019,Rutgers,7,64,Buffalo,71-82
+2019,Towson,15,64,UConn,61-110
+2021,Stanford,1,1,Arizona,54-53
+2021,Arizona,3,2,Stanford,53-54
+2021,South Carolina,1,4,Stanford,65-66
+2021,UConn,1,4,Arizona,59-69
+2021,Louisville,2,8,Stanford,63-78
+2021,Texas,6,8,South Carolina,34-62
+2021,Baylor,2,8,UConn,67-69
+2021,Indiana,4,8,Arizona,53-66
+2021,Missouri St.,5,16,Stanford,62-89
+2021,Oregon,6,16,Louisville,42-60
+2021,Georgia Tech,5,16,South Carolina,65-76
+2021,Maryland,2,16,Texas,61-64
+2021,Iowa,5,16,UConn,72-92
+2021,Michigan,6,16,Baylor,75-78
+2021,NC State,1,16,Indiana,70-73
+2021,Texas A&M,2,16,Arizona,59-74
+2021,Oklahoma St.,8,32,Stanford,62-73
+2021,Wright St.,13,32,Missouri St.,39-64
+2021,Georgia,3,32,Oregon,50-57
+2021,Northwestern,7,32,Louisville,53-62
+2021,Oregon St.,8,32,South Carolina,42-59
+2021,West Virginia,4,32,Georgia Tech,56-73
+2021,UCLA,3,32,Texas,62-71
+2021,Alabama,7,32,Maryland,64-100
+2021,Syracuse,8,32,UConn,47-83
+2021,Kentucky,4,32,Iowa,72-86
+2021,Tennessee,3,32,Michigan,55-70
+2021,Virginia Tech,7,32,Baylor,48-90
+2021,South Florida,8,32,NC State,67-79
+2021,Belmont,12,32,Indiana,48-70
+2021,BYU,11,32,Arizona,46-52
+2021,Iowa St.,7,32,Texas A&M,82-84
+2021,Utah Valley,16,64,Stanford,44-87
+2021,Wake Forest,9,64,Oklahoma St.,61-84
+2021,UC Davis,12,64,Missouri St.,51-70
+2021,Arkansas,4,64,Wright St.,62-66
+2021,South Dakota,11,64,Oregon,47-67
+2021,Drexel,14,64,Georgia,53-67
+2021,UCF,10,64,Northwestern,51-62
+2021,Marist,15,64,Louisville,43-74
+2021,Mercer,16,64,South Carolina,53-79
+2021,Florida St.,9,64,Oregon St.,59-83
+2021,SFA,12,64,Georgia Tech,52-54
+2021,Lehigh,13,64,West Virginia,53-77
+2021,Bradley,11,64,Texas,62-81
+2021,Wyoming,14,64,UCLA,48-69
+2021,North Carolina,10,64,Alabama,71-80
+2021,Mt. St. Mary's,15,64,Maryland,45-98
+2021,High Point,16,64,UConn,59-102
+2021,South Dakota St.,9,64,Syracuse,55-72
+2021,Central Mich.,12,64,Iowa,72-87
+2021,Idaho St.,13,64,Kentucky,63-71
+2021,FGCU,11,64,Michigan,66-87
+2021,Middle Tenn.,14,64,Tennessee,62-87
+2021,Marquette,10,64,Virginia Tech,63-70
 2021,Jackson St.,15,64,Baylor,52-101
-2021,North Carolina A&T State University,16,64,North Carolina State University,58-79
-2021,Washington State University,9,64,University of South Florida,53-57
+2021,NC A&T,16,64,NC State,58-79
+2021,Washington St.,9,64,South Florida,53-57
 2021,Gonzaga,5,64,Belmont,59-64
-2021,Virginia Commonwealth University,13,64,"Indiana University, Bloomington",32-63
-2021,"Rutgers, The State University of New Jersey, New Brunswick",6,64,BYU,66-69
-2021,Stony Brook University,14,64,University of Arizona,44-79
+2021,VCU,13,64,Indiana,32-63
+2021,Rutgers,6,64,BYU,66-69
+2021,Stony Brook,14,64,Arizona,44-79
 2021,Michigan St.,10,64,Iowa St.,75-79
-2021,Troy University,15,64,"Texas A&M University, College Station",80-84
-2022,"University of South Carolina, Columbia",1,1,University of Connecticut,64-49
-2022,University of Connecticut,2,2,"University of South Carolina, Columbia",49-64
-2022,University of Louisville,1,4,"University of South Carolina, Columbia",59-72
-2022,Stanford University,1,4,University of Connecticut,58-63
-2022,Creighton,10,8,"University of South Carolina, Columbia",50-80
-2022,University of Michigan,3,8,University of Louisville,50-62
-2022,University of Texas at Austin,2,8,Stanford University,50-59
-2022,North Carolina State University,1,8,University of Connecticut,87-91
-2022,"University of North Carolina, Chapel Hill",5,16,"University of South Carolina, Columbia",61-69
+2021,Troy,15,64,Texas A&M,80-84
+2022,South Carolina,1,1,UConn,64-49
+2022,UConn,2,2,South Carolina,49-64
+2022,Louisville,1,4,South Carolina,59-72
+2022,Stanford,1,4,UConn,58-63
+2022,Creighton,10,8,South Carolina,50-80
+2022,Michigan,3,8,Louisville,50-62
+2022,Texas,2,8,Stanford,50-59
+2022,NC State,1,8,UConn,87-91
+2022,North Carolina,5,16,South Carolina,61-69
 2022,Iowa St.,3,16,Creighton,68-76
-2022,"University of Tennessee, Knoxville",4,16,University of Louisville,64-76
-2022,University of South Dakota,10,16,University of Michigan,49-52
-2022,"University of Maryland, College Park",4,16,Stanford University,66-72
-2022,The Ohio State University,6,16,University of Texas at Austin,63-66
-2022,University of Notre Dame,5,16,North Carolina State University,63-66
-2022,"Indiana University, Bloomington",3,16,University of Connecticut,58-75
-2022,University of Miami (Florida),8,32,"University of South Carolina, Columbia",33-49
-2022,University of Arizona,4,32,"University of North Carolina, Chapel Hill",45-63
-2022,University of Georgia,6,32,Iowa St.,44-67
-2022,University of Iowa,2,32,Creighton,62-64
-2022,Gonzaga,9,32,University of Louisville,59-68
-2022,Belmont,12,32,"University of Tennessee, Knoxville",67-70
-2022,Villanova University,11,32,University of Michigan,49-64
-2022,Baylor,2,32,University of South Dakota,47-61
-2022,University of Kansas,8,32,Stanford University,65-91
-2022,FGCU,12,32,"University of Maryland, College Park",65-89
-2022,Louisiana St.,3,32,The Ohio State University,64-79
-2022,University of Utah,7,32,University of Texas at Austin,56-78
-2022,Kansas St.,9,32,North Carolina State University,57-89
-2022,University of Oklahoma,4,32,University of Notre Dame,64-108
-2022,Princeton University,11,32,"Indiana University, Bloomington",55-56
-2022,University of Central Florida,7,32,University of Connecticut,47-52
-2022,HowardS,16,64,"University of South Carolina, Columbia",21-79
-2022,University of South Florida,9,64,University of Miami (Florida),66-78
-2022,Stephen F. Austin State University,12,64,"University of North Carolina, Chapel Hill",66-79
-2022,"University of Nevada, Las Vegas",13,64,University of Arizona,67-72
-2022,University of Dayton,11,64,University of Georgia,54-70
-2022,University of Texas at Arlington,14,64,Iowa St.,71-78
-2022,"University of Colorado, Boulder",7,64,Creighton,74-84
-2022,Illinois St.,15,64,University of Iowa,58-98
-2022,University at Albany,16,64,University of Louisville,51-83
-2022,"University of Nebraska, Lincoln",8,64,Gonzaga,55-68
-2022,University of Oregon,5,64,Belmont,70-73
-2022,"University at Buffalo, the State University of New York",13,64,"University of Tennessee, Knoxville",67-80
-2022,BYU,6,64,Villanova University,57-61
-2022,American,14,64,University of Michigan,39-74
-2022,University of Mississippi,7,64,University of South Dakota,61-75
-2022,"University of Hawaii, Manoa",15,64,Baylor,49-89
-2022,Montana State University-Bozeman,16,64,Stanford University,37-78
-2022,Georgia Tech,9,64,University of Kansas,58-77
-2022,Virginia Polytechnic Institute and State University,5,64,FGCU,81-84
-2022,University of Delaware,13,64,"University of Maryland, College Park",71-102
-2022,Missouri St.,11,64,The Ohio State University,56-63
-2022,Jackson St.,14,64,Louisiana St.,77-83
-2022,"University of Arkansas, Fayetteville",10,64,University of Utah,69-92
-2022,Fairfield,15,64,University of Texas at Austin,52-70
-2022,Longwood,16,64,North Carolina State University,68-96
-2022,Washington State University,8,64,Kansas St.,40-50
-2022,"University of Massachusetts, Amherst",12,64,University of Notre Dame,78-89
-2022,Indiana University-Purdue University Indianapolis,13,64,University of Oklahoma,72-78
-2022,University of Kentucky,6,64,Princeton University,62-69
-2022,The University of North Carolina at Charlotte,14,64,"Indiana University, Bloomington",51-85
-2022,University of Florida,10,64,University of Central Florida,52-69
-2022,Mercer,15,64,University of Connecticut,38-83
-2022,University of the Incarnate Word,16,68,HowardS,51-55
-2022,DePaul,11,68,University of Dayton,57-88
-2022,Mount St. Mary's University,16,68,Longwood,70-74
+2022,Tennessee,4,16,Louisville,64-76
+2022,South Dakota,10,16,Michigan,49-52
+2022,Maryland,4,16,Stanford,66-72
+2022,Ohio St.,6,16,Texas,63-66
+2022,Notre Dame,5,16,NC State,63-66
+2022,Indiana,3,16,UConn,58-75
+2022,Miami (FL),8,32,South Carolina,33-49
+2022,Arizona,4,32,North Carolina,45-63
+2022,Georgia,6,32,Iowa St.,44-67
+2022,Iowa,2,32,Creighton,62-64
+2022,Gonzaga,9,32,Louisville,59-68
+2022,Belmont,12,32,Tennessee,67-70
+2022,Villanova,11,32,Michigan,49-64
+2022,Baylor,2,32,South Dakota,47-61
+2022,Kansas,8,32,Stanford,65-91
+2022,FGCU,12,32,Maryland,65-89
+2022,LSU,3,32,Ohio St.,64-79
+2022,Utah,7,32,Texas,56-78
+2022,Kansas St.,9,32,NC State,57-89
+2022,Oklahoma,4,32,Notre Dame,64-108
+2022,Princeton,11,32,Indiana,55-56
+2022,UCF,7,32,UConn,47-52
+2022,Howard,16,64,South Carolina,21-79
+2022,South Florida,9,64,Miami (FL),66-78
+2022,SFA,12,64,North Carolina,66-79
+2022,UNLV,13,64,Arizona,67-72
+2022,Dayton,11,64,Georgia,54-70
+2022,UT Arlington,14,64,Iowa St.,71-78
+2022,Colorado,7,64,Creighton,74-84
+2022,Illinois St.,15,64,Iowa,58-98
+2022,Albany,16,64,Louisville,51-83
+2022,Nebraska,8,64,Gonzaga,55-68
+2022,Oregon,5,64,Belmont,70-73
+2022,Buffalo,13,64,Tennessee,67-80
+2022,BYU,6,64,Villanova,57-61
+2022,American,14,64,Michigan,39-74
+2022,Ole Miss,7,64,South Dakota,61-75
+2022,Hawaii,15,64,Baylor,49-89
+2022,Montana St.,16,64,Stanford,37-78
+2022,Georgia Tech,9,64,Kansas,58-77
+2022,Virginia Tech,5,64,FGCU,81-84
+2022,Delaware,13,64,Maryland,71-102
+2022,Missouri St.,11,64,Ohio St.,56-63
+2022,Jackson St.,14,64,LSU,77-83
+2022,Arkansas,10,64,Utah,69-92
+2022,Fairfield,15,64,Texas,52-70
+2022,Longwood,16,64,NC State,68-96
+2022,Washington St.,8,64,Kansas St.,40-50
+2022,Massachusetts,12,64,Notre Dame,78-89
+2022,IUPUI,13,64,Oklahoma,72-78
+2022,Kentucky,6,64,Princeton,62-69
+2022,Charlotte,14,64,Indiana,51-85
+2022,Florida,10,64,UCF,52-69
+2022,Mercer,15,64,UConn,38-83
+2022,Incarnate Word,16,68,Howard,51-55
+2022,DePaul,11,68,Dayton,57-88
+2022,Mt. St. Mary's,16,68,Longwood,70-74
 2022,Florida St.,11,68,Missouri St.,50-61
 2023,,0,1,,
 2023,,0,2,,
-2023,"University of South Carolina, Columbia",1,4,University of Iowa,None-None
-2023,Louisiana St.,3,4,Virginia Polytechnic Institute and State University,None-None
-2023,"University of Maryland, College Park",2,8,"University of South Carolina, Columbia",75-86
-2023,University of Louisville,5,8,University of Iowa,83-97
-2023,University of Miami (Florida),9,8,Louisiana St.,42-54
-2023,The Ohio State University,3,8,Virginia Polytechnic Institute and State University,74-84
-2023,"University of California, Los Angeles",4,16,"University of South Carolina, Columbia",43-59
-2023,University of Notre Dame,3,16,"University of Maryland, College Park",59-76
-2023,University of Mississippi,8,16,University of Louisville,62-72
-2023,"University of Colorado, Boulder",6,16,University of Iowa,77-87
-2023,Villanova University,4,16,University of Miami (Florida),65-70
-2023,University of Utah,2,16,Louisiana St.,63-66
-2023,"University of Tennessee, Knoxville",4,16,Virginia Polytechnic Institute and State University,64-73
-2023,University of Connecticut,2,16,The Ohio State University,61-73
-2023,University of South Florida,8,32,"University of South Carolina, Columbia",45-76
-2023,University of Oklahoma,5,32,"University of California, Los Angeles",73-82
-2023,Mississippi St.,11,32,University of Notre Dame,48-53
-2023,University of Arizona,7,32,"University of Maryland, College Park",64-77
-2023,Stanford University,1,32,University of Mississippi,49-54
-2023,University of Texas at Austin,4,32,University of Louisville,51-73
-2023,Duke,3,32,"University of Colorado, Boulder",53-61
-2023,University of Georgia,10,32,University of Iowa,66-74
-2023,"Indiana University, Bloomington",1,32,University of Miami (Florida),68-70
-2023,FGCU,12,32,Villanova University,57-76
-2023,University of Michigan,6,32,Louisiana St.,42-66
-2023,Princeton University,10,32,University of Utah,56-63
-2023,South Dakota State University,9,32,Virginia Polytechnic Institute and State University,60-72
-2023,University of Toledo,12,32,"University of Tennessee, Knoxville",47-94
-2023,"University of North Carolina, Chapel Hill",6,32,The Ohio State University,69-71
-2023,Baylor,7,32,University of Connecticut,58-77
-2023,Norfolk State University,16,64,"University of South Carolina, Columbia",40-72
-2023,Marquette,9,64,University of South Florida,65-67
-2023,University of Portland,12,64,University of Oklahoma,63-85
-2023,"California State University, Sacramento",13,64,"University of California, Los Angeles",45-67
+2023,South Carolina,1,4,Iowa,None-None
+2023,LSU,3,4,Virginia Tech,None-None
+2023,Maryland,2,8,South Carolina,75-86
+2023,Louisville,5,8,Iowa,83-97
+2023,Miami (FL),9,8,LSU,42-54
+2023,Ohio St.,3,8,Virginia Tech,74-84
+2023,UCLA,4,16,South Carolina,43-59
+2023,Notre Dame,3,16,Maryland,59-76
+2023,Ole Miss,8,16,Louisville,62-72
+2023,Colorado,6,16,Iowa,77-87
+2023,Villanova,4,16,Miami (FL),65-70
+2023,Utah,2,16,LSU,63-66
+2023,Tennessee,4,16,Virginia Tech,64-73
+2023,UConn,2,16,Ohio St.,61-73
+2023,South Florida,8,32,South Carolina,45-76
+2023,Oklahoma,5,32,UCLA,73-82
+2023,Mississippi St.,11,32,Notre Dame,48-53
+2023,Arizona,7,32,Maryland,64-77
+2023,Stanford,1,32,Ole Miss,49-54
+2023,Texas,4,32,Louisville,51-73
+2023,Duke,3,32,Colorado,53-61
+2023,Georgia,10,32,Iowa,66-74
+2023,Indiana,1,32,Miami (FL),68-70
+2023,FGCU,12,32,Villanova,57-76
+2023,Michigan,6,32,LSU,42-66
+2023,Princeton,10,32,Utah,56-63
+2023,South Dakota St.,9,32,Virginia Tech,60-72
+2023,Toledo,12,32,Tennessee,47-94
+2023,North Carolina,6,32,Ohio St.,69-71
+2023,Baylor,7,32,UConn,58-77
+2023,Norfolk St.,16,64,South Carolina,40-72
+2023,Marquette,9,64,South Florida,65-67
+2023,Portland,12,64,Oklahoma,63-85
+2023,Sacramento St.,13,64,UCLA,45-67
 2023,Creighton,6,64,Mississippi St.,66-81
-2023,Southern Utah University,14,64,University of Notre Dame,56-82
-2023,West Virginia University,10,64,University of Arizona,62-75
-2023,College of the Holy Cross,15,64,"University of Maryland, College Park",61-93
-2023,Sacred Heart University,16,64,Stanford University,49-92
-2023,Gonzaga,9,64,University of Mississippi,48-71
-2023,Drake,12,64,University of Louisville,81-83
-2023,East Carolina University,13,64,University of Texas at Austin,40-79
-2023,Middle Tenn.,11,64,"University of Colorado, Boulder",60-82
+2023,Southern Utah,14,64,Notre Dame,56-82
+2023,West Virginia,10,64,Arizona,62-75
+2023,Holy Cross,15,64,Maryland,61-93
+2023,Sacred Heart,16,64,Stanford,49-92
+2023,Gonzaga,9,64,Ole Miss,48-71
+2023,Drake,12,64,Louisville,81-83
+2023,East Carolina,13,64,Texas,40-79
+2023,Middle Tenn.,11,64,Colorado,60-82
 2023,Iona,14,64,Duke,49-89
-2023,Florida St.,7,64,University of Georgia,54-66
-2023,Southeastern Louisiana University,15,64,University of Iowa,43-95
-2023,Tennessee Technological University,16,64,"Indiana University, Bloomington",47-77
-2023,Oklahoma State University,8,64,University of Miami (Florida),61-62
-2023,Washington State University,5,64,FGCU,63-74
-2023,Cleveland State University,13,64,Villanova University,59-76
-2023,"University of Nevada, Las Vegas",11,64,University of Michigan,59-71
-2023,"University of Hawaii, Manoa",14,64,Louisiana St.,50-73
-2023,North Carolina State University,7,64,Princeton University,63-64
-2023,Gardner-Webb University,15,64,University of Utah,77-103
-2023,University of Tennessee at Chattanooga,16,64,Virginia Polytechnic Institute and State University,33-58
-2023,University of Southern California,8,64,South Dakota State University,57-62
-2023,Iowa St.,5,64,University of Toledo,73-80
-2023,Saint Louis University,13,64,"University of Tennessee, Knoxville",50-95
-2023,St. John's University (New York),11,64,"University of North Carolina, Chapel Hill",59-61
-2023,James Madison,14,64,The Ohio State University,66-80
-2023,University of Alabama,10,64,Baylor,74-78
-2023,University of Vermont,15,64,University of Connecticut,52-95
-2023,"Southern University, Baton Rouge",16,68,Sacred Heart University,47-57
-2023,Monmouth University,16,68,Tennessee Technological University,69-79
-2023,University of Illinois Urbana-Champaign,11,68,Mississippi St.,56-70
-2023,Purdue University,11,68,St. John's University (New York),64-66
+2023,Florida St.,7,64,Georgia,54-66
+2023,Southeastern Louisiana,15,64,Iowa,43-95
+2023,Tennessee Tech,16,64,Indiana,47-77
+2023,Oklahoma St.,8,64,Miami (FL),61-62
+2023,Washington St.,5,64,FGCU,63-74
+2023,Cleveland St.,13,64,Villanova,59-76
+2023,UNLV,11,64,Michigan,59-71
+2023,Hawaii,14,64,LSU,50-73
+2023,NC State,7,64,Princeton,63-64
+2023,Gardner-Webb,15,64,Utah,77-103
+2023,Chattanooga,16,64,Virginia Tech,33-58
+2023,Southern California,8,64,South Dakota St.,57-62
+2023,Iowa St.,5,64,Toledo,73-80
+2023,Saint Louis,13,64,Tennessee,50-95
+2023,St. John's (NY),11,64,North Carolina,59-61
+2023,James Madison,14,64,Ohio St.,66-80
+2023,Alabama,10,64,Baylor,74-78
+2023,Vermont,15,64,UConn,52-95
+2023,Southern,16,68,Sacred Heart,47-57
+2023,Monmouth,16,68,Tennessee Tech,69-79
+2023,Illinois,11,68,Mississippi St.,56-70
+2023,Purdue,11,68,St. John's (NY),64-66
