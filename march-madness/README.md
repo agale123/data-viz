@@ -1,5 +1,7 @@
 # March Madness
 
+![Screenshot of the most recent years Women's march madness results](images/iowa_champion.png)
+
 ## Preview
 
 The website at the main branch of this repository can be previewed [here](https://agale123.github.io/data-viz/march-madness/web/).
